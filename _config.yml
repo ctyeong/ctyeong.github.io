@@ -23,10 +23,10 @@ footer-links:
   flickr:
   github: #barryclark/jekyll-now
   instagram:
-  linkedin: 
+  linkedin: 'http://www.linkedin.com/in/tchoi4'
   pinterest:
   rss: m # just type anything here for a working RSS icon
-  twitter: 
+  twitter: 'http://www.twitter.com/ssuty'
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
