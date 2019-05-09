@@ -18,7 +18,7 @@ avatar: https://pbs.twimg.com/profile_images/753731985839751168/aT_XgK_J_400x400
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email: tchoi4@asu.edu
   facebook:
   flickr:
   github: #barryclark/jekyll-now
@@ -53,7 +53,8 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+#permalink: /:title/
+permalink: blog/:year/:month/:title
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
