@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- ![Profile](/images/profile_chicago_small.jpg) -->
-<img align="left" width="250" src="../images/profile_canyon.jpg">
+<img align="left" width="220" src="../images/profile_canyon.jpg">
 
 I am a postdoctoral research associate at the 
 [Lincoln Institute for Agri-Food Technology (LIAT)](https://www.lincoln.ac.uk/home/liat) 
