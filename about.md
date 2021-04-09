@@ -24,4 +24,4 @@ I utilized not only multi-robot teams but ant colonies (*Not ant colony optimiza
 In fact, the ASU Graduate College recognized the significance of this research to provide the *Completion Fellowship* &mdash; a full financial support for my last semesters &mdash; while I was finalizing it. 
 I still have some ongoing works as interesting extensions, and I will also try to post the updates in this website.
 
-I am always watching all my communication channels. Please feel free to reach out through any method you find below, if you would like to discuss anything. Thanks!
+I am always watching all my communication channels. Please feel free to reach out through any method you can find below, if you would like to discuss anything. Thanks!
