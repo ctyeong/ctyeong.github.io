@@ -11,7 +11,7 @@ of the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics 2
 Abnormal States in Videos of Ants Undergoing Social Phase Change.* In: Proceedings
 of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Virtual conference. &mdash; To appear.
 
-***Choi, T.***, (2020):
+***Choi, T.*** (2020):
 [*Deep Learning Approaches for Inferring Collective Macrostates from Individual Observations in Natural and Artificial Multi-Agent Systems Under Realistic Constraints.*](https://search.proquest.com/openview/315da7f3afc6956f0befeee8568d5246/1?pq-origsite=gscholar&cbl=18750&diss=y){:target="_blank"}
 In: Ph.D. thesis, Arizona State University.
 
