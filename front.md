@@ -10,7 +10,10 @@ permalink: /
 * Nov-20: Paper accepted to [IAAI2021](https://aaai.org/Conferences/AAAI-21/iaai-21-call/){:target="_blank"}! &mdash;
   *Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*
 
-* Oct-20: Started my new position as a postdoctoral research associate at University of Lincoln in UK!
+* Nov-20: PhD dissertation defended successfully! &mdash;
+  *Deep Learning Approaches for Inferring Collective Macrostates from Individual Observations in Natural and Artificial Multi-Agent Systems Under Realistic Constraints.*
+
+* Oct-20: New position started as a postdoctoral research associate at University of Lincoln in UK!
 
 * Aug-20: Paper accepted to [MFI2020](https://mfi2020.org/){:target="_blank"}! &mdash;
   *Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.*
