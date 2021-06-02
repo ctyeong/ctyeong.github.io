@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-***T. Choi***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* In: Proceedings
+***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* In: Proceedings
 of the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics 2021 (SWARM 2021). Virtual conference. &mdash; To appear.
 
-***T. Choi***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): 
+***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): 
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
 In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Virtual conference.
 
@@ -15,7 +15,7 @@ In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 202
 [*Deep Learning Approaches for Inferring Collective Macrostates from Individual Observations in Natural and Artificial Multi-Agent Systems Under Realistic Constraints.*](https://search.proquest.com/openview/315da7f3afc6956f0befeee8568d5246/1?pq-origsite=gscholar&cbl=18750&diss=y){:target="_blank"}
 In: Ph.D. thesis, Arizona State University.
 
-***T. Choi*** and T. P. Pavlic (2020): 
+***Choi, T.*** and T. P. Pavlic (2020): 
 [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
 In: Proceedings of the IEEE 2020 International Conference on Multisensor Fusion and Integration
 (MFI 2020). Virtual conference.
