@@ -21,7 +21,7 @@ In: Proceedings of the IEEE 2020 International Conference on Multisensor Fusion 
 (MFI 2020). Virtual conference.
 
 Kang, S., ***T. Choi*** and T. P. Pavlic. (2020): 
-[*How Far Should IWatch? Quantifying the Effect
+[*How Far Should I Watch? Quantifying the Effect
 of Various Observational Capabilities on Long-range Situational Awareness in
 Multi-robot Teams.*](https://ieeexplore.ieee.org/document/9196255){:target="_blank"}
 In: Proceedings of the 1st IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020). Virtual conference.
