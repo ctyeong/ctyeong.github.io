@@ -8,7 +8,7 @@ permalink: /about/
 <img align="left" width="220" src="../images/profile_canyon.jpg">
 <!-- <img align="left" width="220" src="../images/chicago.jpg"> -->
 
-I am a postdoctoral research associate at the 
+Hi! I am a postdoctoral research associate at the 
 [Lincoln Institute for Agri-Food Technology (LIAT)](https://www.lincoln.ac.uk/home/liat) 
 at [University of Lincoln](https://www.lincoln.ac.uk/home), UK, in which 
 I mainly work with [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak) to 
