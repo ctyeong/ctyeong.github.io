@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* In: Proceedings
-of the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics 2021 (SWARM 2021). Virtual conference. <span style="color:red">Best Paper Award</span>. &mdash; To appear.
+of the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics 2021 (SWARM 2021). Virtual conference. <span style="color:red">[Best Paper Award]</span> &mdash; To appear.
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): 
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
