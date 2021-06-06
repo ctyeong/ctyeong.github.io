@@ -4,7 +4,7 @@ title: News
 permalink: /
 ---
 
-* June-21: **Best Paper Award** received at [SWARM2021](https://www.swarm-systems.com/dars-swarm2021){:target="_blank"} 
+* Jun-21: **Best Paper Award** received at [SWARM2021](https://www.swarm-systems.com/dars-swarm2021){:target="_blank"} 
   for the presented paper! &mdash; *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.*
   
 * Mar-21: New paper accepted to [SWARM2021](https://www.swarm-systems.com/dars-swarm2021){:target="_blank"}! &mdash;
