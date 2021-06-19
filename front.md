@@ -27,7 +27,7 @@ permalink: /
 * May-20: Engineering Graduate Fellowship awarded from ASU Ira A. Fulton Schools of Engineering!
 
 * Apr-20: [**Completion Fellowship**](https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/completion-fellowship){:target="_blank"} 
-  awarded from ASU Graduate College to support the successful completion of my PhD dissertation! 
+  awarded from ASU Graduate College for supporting the successful completion of my PhD dissertation! 
 
 * Mar-20: Doctoral Fellowship awarded from ASU School of Computing, Informatics, and Decision Systems Engineering! 
 
