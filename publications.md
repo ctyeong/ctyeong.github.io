@@ -7,10 +7,10 @@ permalink: /publications/
 ***Choi, T.***, and G. Cielniak (2021): 
 *Adaptive Selection of Informative Path Planning Strategies via
 Reinforcement Learning.*
-In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). &mdash; To appear.
+In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bonn, Germany (Virtual). &mdash; To appear.
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* In: Proceedings
-of the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics 2021 (SWARM 2021). Virtual conference. <span style="color:red">[Best Paper Award]</span> &mdash; To appear.
+of the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics 2021 (SWARM 2021). Kyoto, Japan (Virtual). <span style="color:red">[Best Paper Award]</span> &mdash; To appear.
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): 
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
@@ -23,21 +23,21 @@ In: Ph.D. thesis, Arizona State University.
 ***Choi, T.*** and T. P. Pavlic (2020): 
 [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
 In: Proceedings of the IEEE 2020 International Conference on Multisensor Fusion and Integration
-(MFI 2020). Virtual conference.
+(MFI 2020). Karlsruhe, Germany (Virtual).
 
 Kang, S., ***T. Choi*** and T. P. Pavlic. (2020): 
 [*How Far Should I Watch? Quantifying the Effect
 of Various Observational Capabilities on Long-range Situational Awareness in
 Multi-robot Teams.*](https://ieeexplore.ieee.org/document/9196255){:target="_blank"}
-In: Proceedings of the 1st IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020). Virtual conference.
+In: Proceedings of the 1st IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020). Washington, DC, USA (Virtual).
 
 ***Choi, T.***, S. Kang, and T. P. Pavlic. (2020): 
 [*Learning Local Behavioral Sequences to Better Infer Non-local Properties in Real Multi-robot Systems.*](https://ieeexplore.ieee.org/document/9196728){:target="_blank"} 
-In: Proceedings of the 2020 IEEE International Conference on Robotics and Automation (ICRA 2020). Virtual conference.
+In: Proceedings of the 2020 IEEE International Conference on Robotics and Automation (ICRA 2020). Paris, France (Virtual).
 
 ***Choi, T.***, T. P. Pavlic, and A. Richa. (2017): 
 [*Automated Synthesis of Scalable Algorithms for Inferring Non-Local Properties to Assist in Multi-Robot Teaming.*](https://ieeexplore.ieee.org/document/8256320){:target="_blank"} 
-In: Proceedings of the 2017 IEEE International Conference on Automation Science and Engineering (CASE 2017), Xi'an, China.
+In: Proceedings of the 2017 IEEE International Conference on Automation Science and Engineering (CASE 2017). Xi'an, China.
 
 ***Choi, T.*** and H. Na. (2016): 
 [*Stealthy Behavior Simulations based on Cognitive Data.*](https://www.koreascience.or.kr/article/JAKO201614137725963.page){:target="_blank"} 
@@ -51,4 +51,4 @@ In: The Journal of Korea Society (JKGS), 15(5):89–98.
 ***Choi, T.*** and H. Na. (2015): 
 [*Stealthy Behavior Simulations based on Cognitive Data.*](https://ieeexplore.ieee.org/document/7340900){:target="_blank"} 
 In: Proceedings of the 2015 IEEE International Conference on Machine Learning
-and Cybernetics (ICMLC 2015), Guangzhou, China.
+and Cybernetics (ICMLC 2015). Guangzhou, China.
