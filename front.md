@@ -4,6 +4,9 @@ title: News
 permalink: /
 ---
 
+* Jul-21: New paper accepted to [ECMR2021](https://ecmr2021.org/){:target="_blank"}! &mdash;
+  *Adaptive Selection of Informative Path Planning Strategies via Reinforcement Learning.*
+
 * Jun-21: **Best Paper Award** received at [SWARM2021](https://www.swarm-systems.com/dars-swarm2021){:target="_blank"} 
   for the presented paper! &mdash; *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.*
   
@@ -16,7 +19,7 @@ permalink: /
 * Nov-20: **PhD dissertation** defended successfully! &mdash;
   *Deep Learning Approaches for Inferring Collective Macrostates from Individual Observations in Natural and Artificial Multi-Agent Systems Under Realistic Constraints.*
 
-* Oct-20: New position started as **a postdoctoral research associate** at University of Lincoln in UK!
+* Oct-20: New position started as **a Postdoctoral Research Associate** at University of Lincoln in UK!
 
 * Aug-20: New paper accepted to [MFI2020](https://mfi2020.org/){:target="_blank"}! &mdash;
   *Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.*
