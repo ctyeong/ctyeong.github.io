@@ -9,7 +9,8 @@ permalink: /publications/
 ***Choi, T.*** and G. Cielniak (2021): 
 [*Adaptive Selection of Informative Path Planning Strategies via
 Reinforcement Learning.*](https://arxiv.org/abs/2108.06618){:target="_blank"}
-In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bonn, Germany (Virtual). &mdash; To appear.
+In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bonn, Germany (Virtual). 
+&mdash; To appear.
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): [*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
 Swarms.*](https://arxiv.org/abs/2108.09394){:target="_blank"} Presented at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
