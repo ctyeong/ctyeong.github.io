@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### Publications \& Preprints: 
+### Publications & Preprints: 
 
 ***Choi, T.*** and G. Cielniak (2021): 
 [*Adaptive Selection of Informative Path Planning Strategies via
