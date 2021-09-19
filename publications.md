@@ -13,7 +13,8 @@ In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bo
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): [*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
 Swarms.*](https://arxiv.org/abs/2108.09394){:target="_blank"} Presented at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
-Kyoto, Japan (Virtual). <span style="color:red">[Best Paper Award]</span>
+Kyoto, Japan (Virtual). [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}.
+&mdash; <span style="color:red">[Best Paper Award]</span>
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): 
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
