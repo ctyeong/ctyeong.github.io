@@ -4,6 +4,10 @@ title: News
 permalink: /
 ---
 
+* Sep-21: Preprint introduced by 
+  [Import AI](https://jack-clark.net/2021/09/27/import-ai-267-tigers-vs-humans-synthetic-voices-agri-robots/){:target="_blank"}! &mdash;
+  *Self-supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies.*
+
 * Jul-21: New paper accepted to [ECMR2021](https://ecmr2021.org/){:target="_blank"}! &mdash;
   *Adaptive Selection of Informative Path Planning Strategies via Reinforcement Learning.*
 
