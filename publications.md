@@ -6,6 +6,10 @@ permalink: /publications/
 
 ### Publications & Preprints: 
 
+***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2021): [*Self-supervised Representation Learning for
+Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
+[arXiv:2109.10135](https://arxiv.org/abs/2109.10135){:target="_blank"}.
+
 ***Choi, T.*** and G. Cielniak (2021): 
 [*Adaptive Selection of Informative Path Planning Strategies via
 Reinforcement Learning.*](https://arxiv.org/abs/2108.06618){:target="_blank"}
