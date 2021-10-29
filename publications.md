@@ -30,7 +30,7 @@ In: Ph.D. thesis, Arizona State University.
 
 ***Choi, T.*** and T. P. Pavlic (2020): 
 [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
-In: Proceedings of the IEEE 2020 International Conference on Multisensor Fusion and Integration
+In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration
 (MFI 2020). Karlsruhe, Germany (Virtual).
 
 Kang, S., ***T. Choi*** and T. P. Pavlic. (2020): 
