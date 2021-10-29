@@ -17,12 +17,12 @@ I've been interested in creating detectors of anomalies "only" from normal, typi
 
 - [*Self-supervised Representation Learning for
 Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} arXiv. 2021. 
-\[[Data](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
-\[[Code](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
+\[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
 - [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
 In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021).
-\[[Data](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
-\[[Code](https://github.com/ctyeong/IO-GEN){:target="_blank"}\].
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
+\[[<span style="color:red">Code</span>](https://github.com/ctyeong/IO-GEN){:target="_blank"}\].
 - [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
 In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration (MFI 2020).
 
@@ -48,7 +48,7 @@ A team of robots could do much more than a single robot could. For strategic tea
 
 - [*Learning Local Behavioral Sequences to Better Infer Non-local Properties in Real Multi-robot Systems.*](https://ieeexplore.ieee.org/document/9196728){:target="_blank"} 
 In: Proceedings of the 2020 IEEE International Conference on Robotics and Automation (ICRA 2020). 
-\[[Data](https://github.com/ctyeong/ReTLo){:target="_blank"}\].
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/ReTLo){:target="_blank"}\].
 - [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
 In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration (MFI 2020).
 - [*Automated Synthesis of Scalable Algorithms for Inferring Non-Local Properties to Assist in Multi-Robot Teaming.*](https://ieeexplore.ieee.org/document/8256320){:target="_blank"} 

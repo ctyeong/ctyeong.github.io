@@ -9,8 +9,8 @@ permalink: /publications/
 ***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2021): [*Self-supervised Representation Learning for
 Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
 [arXiv:2109.10135](https://arxiv.org/abs/2109.10135){:target="_blank"}.
-\[[Data](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
-\[[Code](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
+\[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
 
 ***Choi, T.*** and G. Cielniak (2021): 
 [*Adaptive Selection of Informative Path Planning Strategies via
@@ -25,8 +25,8 @@ Kyoto, Japan (Virtual). [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:ta
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): 
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
 In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Virtual conference.
-\[[Data](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
-\[[Code](https://github.com/ctyeong/IO-GEN){:target="_blank"}\].
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
+\[[<span style="color:red">Code</span>](https://github.com/ctyeong/IO-GEN){:target="_blank"}\].
 
 ***Choi, T.*** (2020):
 [*Deep Learning Approaches for Inferring Collective Macrostates from Individual Observations in Natural and Artificial Multi-Agent Systems Under Realistic Constraints.*](https://search.proquest.com/openview/315da7f3afc6956f0befeee8568d5246/1?pq-origsite=gscholar&cbl=18750&diss=y){:target="_blank"}
@@ -42,12 +42,12 @@ Kang, S., ***T. Choi*** and T. P. Pavlic. (2020):
 of Various Observational Capabilities on Long-range Situational Awareness in
 Multi-robot Teams.*](https://ieeexplore.ieee.org/document/9196255){:target="_blank"}
 In: Proceedings of the 1st IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020). Washington, DC, USA (Virtual).
-\[[Data & Code](https://github.com/PavlicLab/ACSOS2020_ReTLo_Extension){:target="_blank"}\].
+\[[<span style="color:red">Data & Code</span>](https://github.com/PavlicLab/ACSOS2020_ReTLo_Extension){:target="_blank"}\].
 
 ***Choi, T.***, S. Kang, and T. P. Pavlic. (2020): 
 [*Learning Local Behavioral Sequences to Better Infer Non-local Properties in Real Multi-robot Systems.*](https://ieeexplore.ieee.org/document/9196728){:target="_blank"} 
 In: Proceedings of the 2020 IEEE International Conference on Robotics and Automation (ICRA 2020). Paris, France (Virtual).
-\[[Data](https://github.com/ctyeong/ReTLo){:target="_blank"}\].
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/ReTLo){:target="_blank"}\].
 
 ***Choi, T.***, T. P. Pavlic, and A. Richa. (2017): 
 [*Automated Synthesis of Scalable Algorithms for Inferring Non-Local Properties to Assist in Multi-Robot Teaming.*](https://ieeexplore.ieee.org/document/8256320){:target="_blank"} 
