@@ -42,6 +42,7 @@ Kang, S., ***T. Choi*** and T. P. Pavlic. (2020):
 of Various Observational Capabilities on Long-range Situational Awareness in
 Multi-robot Teams.*](https://ieeexplore.ieee.org/document/9196255){:target="_blank"}
 In: Proceedings of the 1st IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020). Washington, DC, USA (Virtual).
+\[[Data & Code](https://github.com/PavlicLab/ACSOS2020_ReTLo_Extension){:target="_blank"}\].
 
 ***Choi, T.***, S. Kang, and T. P. Pavlic. (2020): 
 [*Learning Local Behavioral Sequences to Better Infer Non-local Properties in Real Multi-robot Systems.*](https://ieeexplore.ieee.org/document/9196728){:target="_blank"} 
