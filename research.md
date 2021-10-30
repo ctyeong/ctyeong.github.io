@@ -8,6 +8,7 @@ My research focuses on designing "sensory" and "motional" behaviors of mobile ro
 In particular, I propose novel *machine learning* approaches to address problems under realistic challenges. 
 Several research topics in which I've been directly involved are listed below, but I have a broader interest in improving *autonomy* of *embodied AI systems*.
 
+<br />
 
 ## Anomaly Detection
 
