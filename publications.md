@@ -4,7 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-### Publications & Preprints: 
+### (Preprinted / Under Review): 
+
+***Choi, T.*** and G. Cielniak (2021): *Channel Randomisation with Domain Control for Effective
+Representation Learning of Visual Anomalies in Strawberries.*
 
 ***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2021): [*Self-supervised Representation Learning for
 Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
@@ -12,15 +15,17 @@ Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.101
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
 
-***Choi, T.*** and G. Cielniak (2021): 
-[*Adaptive Selection of Informative Path Planning Strategies via
-Reinforcement Learning.*](https://ieeexplore.ieee.org/document/9568796){:target="_blank"}
-In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bonn, Germany (Virtual).
-
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): [*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
 Swarms.*](https://arxiv.org/abs/2108.09394){:target="_blank"} Presented at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
 Kyoto, Japan (Virtual). [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}.
 &mdash; <span style="color:red">[Best Paper Award]</span>
+
+### (Published):
+
+***Choi, T.*** and G. Cielniak (2021): 
+[*Adaptive Selection of Informative Path Planning Strategies via
+Reinforcement Learning.*](https://ieeexplore.ieee.org/document/9568796){:target="_blank"}
+In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bonn, Germany (Virtual).
 
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): 
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
