@@ -9,18 +9,18 @@ permalink: /publications/
 ***Choi, T.*** and G. Cielniak (2021): *Channel Randomisation with Domain Control for Effective
 Representation Learning of Visual Anomalies in Strawberries.*
 
-***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2021): [*Self-supervised Representation Learning for
-Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
-[arXiv:2109.10135](https://arxiv.org/abs/2109.10135){:target="_blank"}.
-\[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
-\[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
-
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* &mdash;
 Extension of the <span style="color:red">[Best Paper Award]</span> winner 
 at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
 Kyoto, Japan (Virtual). [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}.
 
 ### (Published):
+
+***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2021): [*Self-supervised Representation Learning for
+Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
+[arXiv:2109.10135](https://arxiv.org/abs/2109.10135){:target="_blank"}.
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
+\[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\] &mdash; To appear.
 
 ***Choi, T.*** and G. Cielniak (2021): 
 [*Adaptive Selection of Informative Path Planning Strategies via
