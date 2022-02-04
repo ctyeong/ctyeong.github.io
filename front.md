@@ -4,7 +4,7 @@ title: News
 permalink: /
 ---
 
-* Jan-22: New paper accepted to [ICRA2022](https://icra2022.org/){:target="_blank"} &mdash;
+* Jan-22: New paper accepted to [ICRA2022](https://icra2022.org/){:target="_blank"}! &mdash;
   *Self-supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies.*
 
 * Dec-21: Invited to speak at [Hankyong National University](https://www.hknu.ac.kr/eng/index..do){:target="_blank"} &mdash;
