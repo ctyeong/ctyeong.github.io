@@ -4,12 +4,18 @@ title: News
 permalink: /
 ---
 
+* Jan-22: New paper accepted to the [ICRA2022](https://icra2022.org/){:target="_blank"} &mdash;
+  *Self-supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies.*
+
+* Dec-21: Invited to speak at [Hankyong National University](https://www.hknu.ac.kr/eng/index..do){:target="_blank"} &mdash;
+  *AI Research in Agriculture and Beyond — Successful Machine Learning under Limited Resources.* 
+
 * Dec-21: New short paper accepted to the [AIAFS](https://aiafs-aaai2022.github.io/){:target="_blank"}
   workshop at [AAAI-22](https://aaai.org/Conferences/AAAI-22/){:target="_blank"}! &mdash;
   *Channel Randomisation with Domain Control for Effective Representation
   Learning of Visual Anomalies in Strawberries.*
 
-* Sep-21: Preprint introduced by 
+* Sep-21: Preprint featured in
   [Import AI](https://jack-clark.net/2021/09/27/import-ai-267-tigers-vs-humans-synthetic-voices-agri-robots/){:target="_blank"}! &mdash;
   *Self-supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies.*
 
