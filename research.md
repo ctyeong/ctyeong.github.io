@@ -17,7 +17,8 @@ I've been interested in creating detectors of anomalies "only" from normal, typi
 **References:**
 
 - [*Self-supervised Representation Learning for
-Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} arXiv. 2021. 
+Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"}
+In: Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
 - [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
