@@ -6,17 +6,17 @@ permalink: /publications/
 
 ### (Preprinted / Under Review): 
 
-***Choi, T.*** and G. Cielniak (2021): *Channel Randomisation with Domain Control for Effective
+***Choi, T.*** and G. Cielniak (2022): *Channel Randomisation with Domain Control for Effective
 Representation Learning of Visual Anomalies in Strawberries.*
 
-***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2021): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* &mdash;
+***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2022): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* &mdash;
 Extension of the <span style="color:red">[Best Paper Award]</span> winner 
 at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
 Kyoto, Japan (Virtual). [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}.
 
 ### (Published):
 
-***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2021): [*Self-supervised Representation Learning for
+***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2022): [*Self-supervised Representation Learning for
 Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
 [arXiv:2109.10135](https://arxiv.org/abs/2109.10135){:target="_blank"}.
 In: Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA 2022). Philadelphia, USA.
