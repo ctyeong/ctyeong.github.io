@@ -4,17 +4,23 @@ title: Publications
 permalink: /publications/
 ---
 
-### (Preprinted / Under Review): 
+### (Preprinted): 
 
-***Choi, T.*** and G. Cielniak (2022): *Channel Randomisation with Domain Control for Effective
-Representation Learning of Visual Anomalies in Strawberries.*
-
-***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2022): *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.* &mdash;
-Extension of the <span style="color:red">[Best Paper Award]</span> winner 
-at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
-Kyoto, Japan (Virtual). [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}.
+***Choi, T.*** and G. Cielniak (2022): [*Channel Randomisation with Domain Control for Effective
+Representation Learning of Visual Anomalies in Strawberries.*](https://openreview.net/forum?id=BcQqzWwzoaw){:target="_blank"}
+In: AAAI-2022 Workshop on AI for Agriculture and Food Systems (AIAFS 2022).
 
 ### (Published):
+
+***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2022): 
+[*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
+Swarms.*](https://link.springer.com/article/10.1007/s10015-022-00753-y){:target="_blank"} 
+In: Journal of Artificial Life and Robotics (AROB)
+&mdash;
+Extension of the <span style="color:red">[Best Paper Award]</span> winner 
+at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
+Kyoto, Japan (Virtual). 
+<!-- [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}. -->
 
 ***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2022): [*Self-supervised Representation Learning for
 Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
@@ -62,12 +68,12 @@ In: Proceedings of the 2017 IEEE International Conference on Automation Science 
 
 ***Choi, T.*** and H. Na. (2016): 
 [*Stealthy Behavior Simulations based on Cognitive Data.*](https://www.koreascience.or.kr/article/JAKO201614137725963.page){:target="_blank"} 
-In: The Journal of Korea Society (JKGS), 16(2):27–40.
+In: Journal of Korea Game Society (JKGS), 16(2):27–40.
 
 ***Choi, T.*** and H. Na. (2015): 
 [*Making Levels More Challenging with a Cooperative Strategy
 of Ghosts in Pac-Man.*](https://www.koreascience.or.kr/article/JAKO201532434264018.jsp-kj=SSMHB4&py=2012&vnc=v27n6&sp=588){:target="_blank"} 
-In: The Journal of Korea Society (JKGS), 15(5):89–98.
+In: Journal of Korea Game Society (JKGS), 15(5):89–98.
 
 ***Choi, T.*** and H. Na. (2015): 
 [*Stealthy Behavior Simulations based on Cognitive Data.*](https://ieeexplore.ieee.org/document/7340900){:target="_blank"} 
