@@ -15,7 +15,7 @@ In: AAAI-2022 Workshop on AI for Agriculture and Food Systems (AIAFS 2022).
 ***Choi, T.***, Benjamin Pyenson, Juergen Liebig, and T. P. Pavlic (2022): 
 [*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
 Swarms.*](https://link.springer.com/article/10.1007/s10015-022-00753-y){:target="_blank"} 
-In: Journal of Artificial Life and Robotics (AROB)
+Journal of Artificial Life and Robotics (AROB)
 &mdash;
 Extension of the <span style="color:red">[Best Paper Award]</span> winner 
 at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
@@ -69,12 +69,12 @@ In: Proceedings of the 2017 IEEE International Conference on Automation Science 
 
 ***Choi, T.*** and H. Na. (2016): 
 [*Stealthy Behavior Simulations based on Cognitive Data.*](https://www.koreascience.or.kr/article/JAKO201614137725963.page){:target="_blank"} 
-In: Journal of Korea Game Society (JKGS), 16(2):27–40.
+Journal of Korea Game Society (JKGS), 16(2):27–40.
 
 ***Choi, T.*** and H. Na. (2015): 
 [*Making Levels More Challenging with a Cooperative Strategy
 of Ghosts in Pac-Man.*](https://www.koreascience.or.kr/article/JAKO201532434264018.jsp-kj=SSMHB4&py=2012&vnc=v27n6&sp=588){:target="_blank"} 
-In: Journal of Korea Game Society (JKGS), 15(5):89–98.
+Journal of Korea Game Society (JKGS), 15(5):89–98.
 
 ***Choi, T.*** and H. Na. (2015): 
 [*Stealthy Behavior Simulations based on Cognitive Data.*](https://ieeexplore.ieee.org/document/7340900){:target="_blank"} 
