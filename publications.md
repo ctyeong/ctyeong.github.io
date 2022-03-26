@@ -20,11 +20,12 @@ In: Journal of Artificial Life and Robotics (AROB)
 Extension of the <span style="color:red">[Best Paper Award]</span> winner 
 at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
 Kyoto, Japan (Virtual). 
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
 <!-- [arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}. -->
 
 ***Choi, T.***, O. Would, A. Salazar-Gomez, and  G. Cielniak (2022): [*Self-supervised Representation Learning for
 Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.10135){:target="_blank"} 
-[arXiv:2109.10135](https://arxiv.org/abs/2109.10135){:target="_blank"}.
+<!-- [arXiv:2109.10135](https://arxiv.org/abs/2109.10135){:target="_blank"}. -->
 In: Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA 2022). Philadelphia, USA.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\] 
@@ -39,7 +40,7 @@ In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bo
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
 In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Virtual conference.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
-\[[<span style="color:red">Code</span>](https://github.com/ctyeong/IO-GEN){:target="_blank"}\].
+\[[<span style="color:red">Code</span>](https://github.com/ctyeong/IO-GEN){:target="_blank"}\]
 
 ***Choi, T.*** (2020):
 [*Deep Learning Approaches for Inferring Collective Macrostates from Individual Observations in Natural and Artificial Multi-Agent Systems Under Realistic Constraints.*](https://search.proquest.com/openview/315da7f3afc6956f0befeee8568d5246/1?pq-origsite=gscholar&cbl=18750&diss=y){:target="_blank"}
