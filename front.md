@@ -4,6 +4,10 @@ title: News
 permalink: /
 ---
 
+* Mar-22: Extended paper published at the [Journal of Artificial Life and 
+  Robotics (AROB)](https://www.springer.com/journal/10015){:target="_blank"}! &mdash;
+  *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.*
+
 * Jan-22: New paper accepted to [ICRA2022](https://icra2022.org/){:target="_blank"}! &mdash;
   *Self-supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies.*
 
