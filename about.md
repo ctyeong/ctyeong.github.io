@@ -8,6 +8,9 @@ permalink: /about/
 <img align="left" width="220" src="../images/profile_canyon.jpg">
 <!-- <img align="left" width="220" src="../images/chicago.jpg"> -->
 
+
+<span style="color:red">[*Major update coming soon ...*]</span>.
+
 Hi! I am a postdoctoral research associate at the 
 [Lincoln Institute for Agri-Food Technology (LIAT)](https://www.lincoln.ac.uk/home/liat) 
 at [University of Lincoln](https://www.lincoln.ac.uk/home), UK, in which 
