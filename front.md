@@ -4,6 +4,8 @@ title: News
 permalink: /
 ---
 
+* Aug-22: Excited to start a new position as a **Postdoctoral Scholar** at UC Davis! 
+
 * Mar-22: Extended paper published at the [Journal of Artificial Life and 
   Robotics (AROB)](https://www.springer.com/journal/10015){:target="_blank"}! &mdash;
   *Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms.*
@@ -38,7 +40,7 @@ permalink: /
 * Nov-20: **PhD dissertation** defended successfully! &mdash;
   *Deep Learning Approaches for Inferring Collective Macrostates from Individual Observations in Natural and Artificial Multi-Agent Systems Under Realistic Constraints.*
 
-* Oct-20: New position started as **a Postdoctoral Research Associate** at University of Lincoln in UK!
+* Oct-20: New position started as a **Postdoctoral Research Associate** at University of Lincoln in the UK!
 
 * Aug-20: New paper accepted to [MFI2020](https://mfi2020.org/){:target="_blank"}! &mdash;
   *Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.*
