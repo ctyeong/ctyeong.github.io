@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- ![Profile](/images/profile_chicago_small.jpg) -->
-<img align="left" width="220" src="../images/profile_canyon.jpg">
+<img align="left" width="220" src="../images/lincoln.jpg">
 <!-- <img align="left" width="220" src="../images/chicago.jpg"> -->
 
 
