@@ -4,6 +4,12 @@ title: News
 permalink: /
 ---
 
+* Dec-22: Two papers accepted to the [AIAFS](https://aiafs-aaai2022.github.io/){:target="_blank"}
+  workshop at [AAAI-23](https://aaai.org/Conferences/AAAI-22/){:target="_blank"}! &mdash;
+  *(1) Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft Fruits*
+  and
+  *(2) Constrained Reinforcement Learning for Autonomous Farming: Challenges and Opportunities.*
+
 * Aug-22: Excited to start a new position as a **Postdoctoral Scholar** at UC Davis! 
 
 * Mar-22: Extended paper published at the [Journal of Artificial Life and 

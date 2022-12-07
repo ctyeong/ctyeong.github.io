@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+### (Accepted): 
+
+***Choi, T.*** and X. Liu (2023): *Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft Fruits.*
+In: AAAI-2023 Workshop on AI for Agriculture and Food Systems (AIAFS 2023).
+
+Liu, Y., ***T. Choi.***, and X. Liu (2023): *Constrained Reinforcement Learning for Autonomous Farming: Challenges and Opportunities.*
+In: AAAI-2023 Workshop on AI for Agriculture and Food Systems (AIAFS 2023).
+
 ### (Preprinted): 
 
 ***Choi, T.*** and G. Cielniak (2022): [*Channel Randomisation with Domain Control for Effective
