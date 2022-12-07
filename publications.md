@@ -59,7 +59,7 @@ In: Ph.D. thesis, Arizona State University.
 In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration
 (MFI 2020). Karlsruhe, Germany (Virtual).
 
-Kang, S., ***T. Choi*** and T. P. Pavlic. (2020): 
+Kang, S., ***T. Choi***, and T. P. Pavlic. (2020): 
 [*How Far Should I Watch? Quantifying the Effect
 of Various Observational Capabilities on Long-range Situational Awareness in
 Multi-robot Teams.*](https://ieeexplore.ieee.org/document/9196255){:target="_blank"}
