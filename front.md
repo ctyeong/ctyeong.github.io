@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-* Dec-22: A workshop proposal accepted to the [ICRA2023](https://www.icra2023.org/){:target="_blank"}! &mdash; 
+* Dec-22: A workshop proposal accepted to [ICRA2023](https://www.icra2023.org/){:target="_blank"}! &mdash; 
 [*TIG-IV: From Farm to Fork*](https://sites.google.com/view/icra23tig4ws/){:target='_blank'}. 
  
 * Dec-22: Two papers accepted to the [AIAFS](https://aiafs-aaai2022.github.io/){:target="_blank"}
