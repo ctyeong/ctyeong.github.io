@@ -20,12 +20,12 @@ In: AAAI-2022 Workshop on AI for Agriculture and Food Systems (AIAFS 2022).
 
 ### (Submitted): 
 
-***Choi, T.***, D.~Guevara, G.~Bandodkar, Z.~Cheng, C.~Wang, B.~N.~Bailey, M.~Earles, and X.~Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
+***Choi, T.***, D. Guevara, G. Bandodkar, Z. Cheng, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
 To: 2023 IEEE International Conference on
 Intelligent Robots and Systems (IROS 2023). Detroit, USA.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
 
-***Choi, T.***, Y.~Liu, and X.~Liu (2023): *Towards Fully Automated Decision-Making Systems for Smart Farming: Challenges, Opportunities, and  a Case Study.*
+***Choi, T.***, Y. Liu, and X. Liu (2023): *Towards Fully Automated Decision-Making Systems for Smart Farming: Challenges, Opportunities, and  a Case Study.*
 To: 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023). Macao, China.
 
 
