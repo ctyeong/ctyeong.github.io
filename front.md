@@ -4,6 +4,8 @@ title: News
 permalink: /
 ---
 
+* May-23: Thrilled to join Kennesaw State University as a *tenure-track Assistant Professor* in Information 
+  Technology from August 2023! 
 
 * Dec-22: A workshop proposal accepted to [ICRA2023](https://www.icra2023.org/){:target="_blank"}! &mdash; 
 [*TIG-IV: From Farm to Fork*](https://sites.google.com/view/icra23tig4ws/){:target='_blank'}. 
