@@ -11,28 +11,31 @@ permalink: /about/
 
 <!-- <span style="color:red">[*Major update coming soon ...*]</span>. -->
 I am a postdoctoral scholar in the [Department of Computer Science](https://cs.ucdavis.edu/) and 
-the [AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu/) at University of California, Davis. 
-I mainly work with [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu) to build practical AI and robotics solutions to improve *agri-food* systems while identifying unique domain-specific challenges in applying the methods assumed to be performing well.
-*In particular, I will be starting a new position as an Assistant Professor in the [Department of Information Technology](https://ccse.kennesaw.edu) at Kennesaw State University in the Fall semester 2023 to continue to extend my studies with new students and collaborators!* 
+the [AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu/) at University of California, Davis (UCD). 
+I work with [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu) to develop practical AI and robotics solutions to improve *agri-food* systems by addressing unique domain-specific challenges in applying the methods assumed to be performing well. 
+Prior to joining UCD, I was also a postdoc at the [Lincoln Institute for Agri-Food Technology
+](https://www.lincoln.ac.uk/liat/) of University of Lincoln, UK, where I was supervised by [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak). 
 
-I am interested in developing novel deep-learning methods to create precise environmental models while the resources for data gathering are limited. 
-To be specific, I design algorithms to generate useful data that could complement an available, imperfect dataset so as to better learn the world of interest. 
-Furthermore, I build embodied agents that can autonomously optimize their motions/paths to gather most informative observations. 
-For these studies, I leverage the theories and latest research in computer vision, reinforcement learning,  and robotics. 
+My research interests lie in the development of novel deep-learning methods for creating precise environmental models, even in scenarios with the limited resources for data gathering. 
+To be specific, I design algorithms to generate useful data that could complement an available, imperfect dataset so as to better model the world of interest. 
+Additionally, I build embodied agents capable of optimizing their motions and paths to collect the most informative observations. 
+These studies leverage cutting-edge research in computer vision, reinforcement learning, and robotics. 
+
+*Exciting News!* Starting in the Fall semester of 2023, I will be starting a new role as an Assistant Professor in the [Department of Information Technology](https://ccse.kennesaw.edu) at Kennesaw State University (KSU). 
+I look forward to continuing to extend my research activities through active collaborations with new students and colleagues. 
+If you are interested in working with me, don't hesitate to reach out at [taechoi@ucdavis.edu](mailto:taechoi@ucdavis.edu).
+
 
 ### Education
 
 PhD in Computer Science, 2020
-
-<sup><sub>Arizona State University, USA</sub></sup>
+- Arizona State University, USA
 
 MS in Computer Science, 2019
-
-<sub><sup>Arizona State University, USA</sup></sub>
+- Arizona State University, USA
 
 BSE in Computer Science and Engineering, 2015
-
-<sub><sup>Soongsil University, Korea</sup></sub>
+- Soongsil University, South Korea
 
 <!-- we believe that *agri-robotics* will be one of the most important 
 fields in the near future, and so, we are working to identify the unique challenges and limitations in traditional approaches to propose new, better solutions.
