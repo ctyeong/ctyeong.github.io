@@ -4,18 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-<!-- My research focuses on designing "sensory" and "motional" behaviors of mobile robots in more "informative" ways for each other. 
-In particular, I propose novel *machine learning* approaches to address problems under realistic challenges. 
+My research centers on the design of innovative machine learning algorithms for practical scenarios with limited datasets and/or constraints on data collection resources.
+More specifically, I below describe some of my ongoing interdisciplinary research projects. 
+<!-- "sensory" and "motional" behaviors of mobile robots in more "informative" ways for each other.  -->
+<!-- In particular, I propose novel *machine learning* approaches to address problems under realistic challenges. 
 Several research topics in which I've been directly involved are listed below, but I have a broader interest in improving *autonomy* of *embodied AI systems*. -->
 
 <br />
 
-## Synthesis of Realistic Anomalies 
+### Prediction of Unseen Samples
+<!-- Synthesis of Realistic Anomalies  -->
 
 I am interested in creating anomaly detectors using "only" normal, typical observations, which are more accessible and cost-effective to obtain. For instance, in the context of automating fruit health monitoring from image data, it can be challenging to collect sufficient samples of unhealthy fruits. Even if you have some examples, completely novel types of disease could arise later, posing new challenges for detection.
 To overcome this, I develop methods to leverage the normal samples to *synthesize* hypothetical but realistic examples of anomalies so that these synthetic anomalies can serve as valuable training data for accurate anomaly detection.
 In other words, my research aims to enhance monitoring systems by bridging the gap between limited anomaly data and the need for comprehensive anomaly detection solutions.
-Specifically, I have shown novel techniques that utilize *self-supervised learning* and *generative adversarial networks* to tackle practical scenarios like *fruit health monitoring* 🍓 and *ant behavior analysis* 🐜. 
+Specifically, I have shown novel techniques that utilize *self-supervised learning* and *generative adversarial networks* to tackle practical scenarios like *fruit health monitoring* and *ant behavior analysis*. 
 <!-- Similarly, taking motions for promoting "outlier" states has also been found useful for speeding-up *robotic learning*! -->
 
 **References:**
@@ -25,6 +28,10 @@ Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.101
 In: Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\].
+- [*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
+Swarms.*](https://link.springer.com/article/10.1007/s10015-022-00753-y){:target="_blank"} 
+Journal of Artificial Life and Robotics (AROB). 
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\].
 - [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
 In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021).
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
@@ -32,19 +39,29 @@ In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 202
 <!-- - [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
 In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration (MFI 2020). -->
 
-<!-- <br />
+<br />
 
-## Informative Path Planning
+### Active, Informative Sampling
 
-Mobile robots could be a useful instrument to regularly monitor an area of interest and report any change of a particular spatial phenomenon there, e.g., soil temperature, humidity, or compaction in agricultural applications. However, their paths for sensing must be optimised to navigate only to most "informative" locations for spatial prediction &mdash; instead of planning to visit every grid cell  &mdash; due to limited resources, such as battery life🔋 and mission time⏰. *Gaussian Process Regression* has been widely used in literature since it enables 1) information-theoretic evaluation of candidate locations and 2) online learning as a new measurement is acquired. My interest lies in integrating such traditional methods with more modern *deep learning* algorithms to better optimise the robotic sampling paths. 
+For environmental monitoring, the regular assessment of physical systems is crucial to detect and report changes in air or soil quality, fruit maturity, and more.
+To achieve this, embodied agents can serve as valuable tools, but their motions and paths for sensing must be optimized to maximize information gathering while considering operational limitations, such as limited battery life. 
+In this project, specifically, I am focused on developing novel *reinforcement learning* algorithms to intelligently guide these agents in selecting the next optimal motions based on current observations. The objective is to collect highly informative data for building accurate models of the environment. 
+Through my research, I have achieved promising results, including the development of a path planning method for air-quality mapping. 
+In addition, I have created a publicly available agricultural dataset specifically designed to advance the study of *active perception* in fruit monitoring, considering challenging occlusion scenarios. 
+
+<!-- navigate only to most "informative" locations for spatial prediction &mdash; instead of planning to visit every grid cell  &mdash; due to limited resources, such as battery life🔋 and mission time⏰. *Gaussian Process Regression* has been widely used in literature since it enables 1) information-theoretic evaluation of candidate locations and 2) online learning as a new measurement is acquired. My interest lies in integrating such traditional methods with more modern *deep learning* algorithms to better optimise the robotic sampling paths.  -->
 
 **References:**
+
+- [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
+ arXiv, 2023.
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
 
 - [*Adaptive Selection of Informative Path Planning Strategies via
 Reinforcement Learning.*](https://ieeexplore.ieee.org/document/9568796){:target="_blank"}
 In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021).
 
-<br />
+<!-- <br />
 
 ## Multi-robot Coordination via Teammate Modeling
 
