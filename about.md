@@ -24,7 +24,7 @@ For these studies, I leverage the theories and latest research in computer visio
 
 PhD in Computer Science, 2020
 
-<sub><sup>Arizona State University, USA</sup></sub>
+<sup><sub>Arizona State University, USA</sub></sup>
 
 MS in Computer Science, 2019
 
