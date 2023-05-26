@@ -25,6 +25,7 @@ These studies leverage cutting-edge research in computer vision, reinforcement l
 I look forward to continuing to extend my research activities through active collaborations with new students and colleagues. 
 If you are interested in working with me, don't hesitate to reach out at [taechoi@ucdavis.edu](mailto:taechoi@ucdavis.edu).
 
+<br />
 
 ### Education
 
