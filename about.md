@@ -17,7 +17,7 @@ Prior to joining UCD, I was also a postdoc at the [Lincoln Institute for Agri-Fo
 ](https://www.lincoln.ac.uk/liat/) of University of Lincoln, UK, where I was supervised by [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak). 
 
 My research interests lie in the development of novel deep-learning methods for creating precise environmental models, even in scenarios with the limited resources for data gathering. 
-To be specific, I design algorithms to generate useful data that could complement an available, imperfect dataset so as to better model the world of interest. 
+To be specific, I design algorithms to synthesize useful data that could complement an available, imperfect dataset so as to better model the world of interest. 
 Additionally, I build embodied agents capable of optimizing their motions and paths to collect the most informative observations. 
 These studies leverage cutting-edge research in computer vision, reinforcement learning, and robotics. 
 
