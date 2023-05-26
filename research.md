@@ -4,15 +4,19 @@ title: Research
 permalink: /research/
 ---
 
-My research focuses on designing "sensory" and "motional" behaviors of mobile robots in more "informative" ways for each other. 
+<!-- My research focuses on designing "sensory" and "motional" behaviors of mobile robots in more "informative" ways for each other. 
 In particular, I propose novel *machine learning* approaches to address problems under realistic challenges. 
-Several research topics in which I've been directly involved are listed below, but I have a broader interest in improving *autonomy* of *embodied AI systems*.
+Several research topics in which I've been directly involved are listed below, but I have a broader interest in improving *autonomy* of *embodied AI systems*. -->
 
 <br />
 
-## Anomaly Detection
+## Synthesis of Realistic Anomalies 
 
-I've been interested in creating detectors of anomalies "only" from normal, typical observations because they can often be obtained more easily. For instance, imagine that you need a detector of panicked crowds from videos. It'll be very challenging to collect such video samples compared to a huge amount of videos of normal crowds already available from diverse sources. Thus, I've been developing novel methods to fully utilise frequent normal samples to effectively identify rare "anomalous" examples. Useful techniques that I have found useful so far include *Self-supervised Learning* and *Generative Adversarial Networks*, whilst I've worked with visual data from *strawberry farms*🍓 and *ant colonies*🐜, respectively. Similarly, taking motions for promoting "outlier" states has also been found useful for speeding-up *robotic learning*!
+I am interested in creating anomaly detectors using "only" normal, typical observations, which are more accessible and cost-effective to obtain. For instance, in the context of automating fruit health monitoring from image data, it can be challenging to collect sufficient samples of unhealthy fruits. Even if you have some examples, completely novel types of disease could arise later, posing new challenges for detection.
+To overcome this, I develop methods to leverage the normal samples to *synthesize* hypothetical but realistic examples of anomalies so that these synthetic anomalies can serve as valuable training data for accurate anomaly detection.
+In other words, my research aims to enhance monitoring systems by bridging the gap between limited anomaly data and the need for comprehensive anomaly detection solutions.
+Specifically, I have shown novel techniques that utilize *self-supervised learning* and *generative adversarial networks* to tackle practical scenarios like *fruit health monitoring* 🍓 and *ant behavior analysis* 🐜. 
+<!-- Similarly, taking motions for promoting "outlier" states has also been found useful for speeding-up *robotic learning*! -->
 
 **References:**
 
@@ -25,10 +29,10 @@ In: Proceedings of the 2022 IEEE International Conference on Robotics and Automa
 In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021).
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/IO-GEN){:target="_blank"}\].
-- [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
-In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration (MFI 2020).
+<!-- - [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
+In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration (MFI 2020). -->
 
-<br />
+<!-- <br />
 
 ## Informative Path Planning
 
@@ -54,4 +58,4 @@ In: Proceedings of the 2020 IEEE International Conference on Robotics and Automa
 - [*Automatic Discovery of Motion Patterns that Improve Learning Rate in Communication-Limited Multi-Robot Systems.* ](https://ieeexplore.ieee.org/abstract/document/9235218){:target="_blank"}
 In: Proceedings of the 2020 IEEE International Conference on Multisensor Fusion and Integration (MFI 2020).
 - [*Automated Synthesis of Scalable Algorithms for Inferring Non-Local Properties to Assist in Multi-Robot Teaming.*](https://ieeexplore.ieee.org/document/8256320){:target="_blank"} 
-In: Proceedings of the 2017 IEEE International Conference on Automation Science and Engineering (CASE 2017). 
+In: Proceedings of the 2017 IEEE International Conference on Automation Science and Engineering (CASE 2017).  -->
