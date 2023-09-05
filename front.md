@@ -4,6 +4,17 @@ title: News
 permalink: /
 ---
 
+* May-23: Excited to start a new position as a **Tenure-Track Assistant Professor** in the Department of Information Technology at Kennesaw State University from August 2023! 
+
+* Dec-22: A workshop proposal accepted to [ICRA2023](https://www.icra2023.org/){:target="_blank"}! &mdash; 
+[*TIG-IV: From Farm to Fork*](https://sites.google.com/view/icra23tig4ws/){:target='_blank'}. 
+ 
+* Dec-22: Two papers accepted to the [AIAFS](https://aiafs-aaai2022.github.io/){:target="_blank"}
+  workshop at [AAAI-23](https://aaai.org/Conferences/AAAI-22/){:target="_blank"}! &mdash;
+  *(1) Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft Fruits*
+  and
+  *(2) Constrained Reinforcement Learning for Autonomous Farming: Challenges and Opportunities.*
+
 * Aug-22: Excited to start a new position as a **Postdoctoral Scholar** at UC Davis! 
 
 * Mar-22: Extended paper published at the [Journal of Artificial Life and 
