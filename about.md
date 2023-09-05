@@ -10,6 +10,8 @@ permalink: /about/
 
 
 <!-- <span style="color:red">[*Major update coming soon ...*]</span>. -->
+*[Update coming soon]*
+
 I am a postdoctoral scholar in the [Department of Computer Science](https://cs.ucdavis.edu/) and 
 the [AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu/) at University of California, Davis (UCD). 
 I work with [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu) to develop practical AI and robotics solutions to improve *agri-food* systems by addressing unique domain-specific challenges in applying the methods assumed to be performing well. 
