@@ -89,5 +89,5 @@ exclude:
   - README.md
   - CNAME
 
-# theme: jekyll-theme-cayman
-theme: jekyll-cayman-theme
+theme: jekyll-theme-cayman # deployment
+# theme: jekyll-cayman-theme # local run
