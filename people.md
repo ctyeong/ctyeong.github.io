@@ -4,10 +4,10 @@ title:
 permalink: /people/
 ---
 
-<h2>Faculty</h2>
+## Faculty
 [Taeyeong Choi, PhD (Group Lead)](/about) 
 
 <br/>
 
-<h2>Students</h2>
+## Students
 Sahith Vardhan Reddy Vancha (MS student in IT)

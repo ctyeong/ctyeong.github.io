@@ -21,13 +21,9 @@ Through active collaboration, he led the organizing team of the [ICRA2023 worksh
 He earned his PhD in Computer Science from Arizona State University, working under the supervision of [Dr. Theodore Pavlic](https://search.asu.edu/profile/1995237). 
 His cross-disciplinary doctoral research, which included the design of a deep learning-based abnormal state detector in ant colonies, were recognized with the ASU Completion Fellowship as well as the Best Paper Award in the SWARM2021 conference.
 
-<br />
+*For more details, please look at his CV available [here](/cvs/cv.pdf)!*
 
-### Curriculum Vitae
-
-[[Download]](/cvs/cv.pdf)
-
-<br />
+---
 
 ### Education
 
@@ -39,6 +35,14 @@ MS in Computer Science, 2019
 
 BSE in Computer Science and Engineering, 2015
 - Soongsil University, South Korea
+
+---
+
+### Teaching 
+
+Fall 2023
+- IT7103: Practical Data Analytics 
+- IT4773: Machine Learning for Enterprise Applications
 
 <!-- we believe that *agri-robotics* will be one of the most important 
 fields in the near future, and so, we are working to identify the unique challenges and limitations in traditional approaches to propose new, better solutions.
