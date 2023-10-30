@@ -25,7 +25,7 @@ His cross-disciplinary doctoral research, which included the design of a deep le
 
 ---
 
-### Education
+## <u>Education</u>
 
 PhD in Computer Science, 2020
 - Arizona State University, USA
@@ -38,7 +38,7 @@ BSE in Computer Science and Engineering, 2015
 
 ---
 
-### Teaching 
+## <u>Teaching</u>
 
 Fall 2023
 - IT7103: Practical Data Analytics 
