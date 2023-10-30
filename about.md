@@ -1,31 +1,31 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 
-<!-- ![Profile](/images/profile_chicago_small.jpg) -->
-<img align="left" width="220" src="../images/lincoln.jpg">
-<!-- <img align="left" width="220" src="../images/chicago.jpg"> -->
+<img style="margin: 0 20px 0 0; float: left;" width="220" src="../images/profile_ksu.jpg">
 
+Dr. Taeyeong Choi is an Assistant Professor of [Information Technology](https://ccse.kennesaw.edu/it/index.php) at [Kennesaw State University (KSU)](https://www.kennesaw.edu/), GA, USA. 
+Leading the *Learning and SEnsing Research (LaSER)* laboratory, his research primarily focuses on designing novel machine learning and robotics methodologies for practical applications domains, such as agriculture. 
+<!-- To be specific, he is interested in developing new approaches  -->
+His research involves the development of data-driven approaches to construct precise environmental models, addressing challenges posed by limited available observations. 
+<!-- I design algorithms to synthesize useful data that could complement an available, imperfect dataset so as to better model the world of interest.  -->
+<!-- Additionally, I build embodied agents capable of optimizing their motions and paths to collect the most informative observations.  -->
+Dr. Choi's work is built upon cutting-edge advancements in computer vision, reinforcement learning, and robotics technologies. 
 
-<!-- <span style="color:red">[*Major update coming soon ...*]</span>. -->
-*[Update coming soon]*
+Prior to joining KSU, Dr. Choi gained valuable research experience as a postdoctoral scholar at the University of California, Davis, under the guidance of [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu), and at the University of Lincoln, UK, supervised by [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak). 
+During these positions, he specialized in the development of AI/robotics technologies for agri-food systems, identifying unique domain-specific challenges and creating effective solutions.
+Through active collaboration, he led the organizing team of the [ICRA2023 workshop on Agri-Food Robotics--from Farm to Fork](https://sites.google.com/view/icra23tig4ws/), contributing to the research community. 
 
-I am a postdoctoral scholar in the [Department of Computer Science](https://cs.ucdavis.edu/) and 
-the [AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu/) at University of California, Davis (UCD). 
-I work with [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu) to develop practical AI and robotics solutions to improve *agri-food* systems by addressing unique domain-specific challenges in applying the methods assumed to be performing well. 
-Prior to joining UCD, I was also a postdoc at the [Lincoln Institute for Agri-Food Technology
-](https://www.lincoln.ac.uk/liat/) of University of Lincoln, UK, where I was supervised by [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak). 
+He earned his PhD in Computer Science from Arizona State University, working under the supervision of [Dr. Theodore Pavlic](https://search.asu.edu/profile/1995237). 
+His cross-disciplinary doctoral research, which included the design of a deep learning-based abnormal state detector in ant colonies, were recognized with the ASU Completion Fellowship as well as the Best Paper Award in the SWARM2021 conference.
 
-My research interests lie in the development of novel deep-learning methods for creating precise environmental models, even in scenarios with the limited resources for data gathering. 
-To be specific, I design algorithms to synthesize useful data that could complement an available, imperfect dataset so as to better model the world of interest. 
-Additionally, I build embodied agents capable of optimizing their motions and paths to collect the most informative observations. 
-These studies leverage cutting-edge research in computer vision, reinforcement learning, and robotics. 
+<br />
 
-*Exciting News!* Starting in the Fall semester of 2023, I will be starting a new role as an Assistant Professor in the [Department of Information Technology](https://ccse.kennesaw.edu) at Kennesaw State University (KSU). 
-I look forward to continuing to extend my research activities through active collaborations with new students and colleagues. 
-If you are interested in working with me, don't hesitate to reach out at [taechoi@ucdavis.edu](mailto:taechoi@ucdavis.edu).
+### Curriculum Vitae
+
+[[Download]](/cvs/cv.pdf)
 
 <br />
 

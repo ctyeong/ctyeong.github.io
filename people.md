@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 <h2>Faculty</h2>
-Taeyeong Choi, PhD (Group Lead)
+[Taeyeong Choi, PhD (Group Lead)](/about) 
 
 <br/>
 
