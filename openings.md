@@ -21,6 +21,16 @@ This project is to leverage these methods to automatically generate a large data
 Specifically, a Python-based interface will be implemented to interface with generative platforms and assess the synthesized outcomes. 
 Through this project, you will gain insights into various text prompt-based image synthesis models, data acquisition processes, and methods for quality evaluation. 
 
+<br>
+
+**"Harvesting Robot"**
+
+<img style="margin: 0 0 0 20px; float: right;" width="180" src="../images/robot_harvester.jpg">
+
+- Selective harvesting involves the process of identifying and gathering only healthy and ripe crops, and automation through robotics presents a promising solution.
+The aim of this project is to implement a Python-based interface between camera sensors and actuators of a robot arm will be implemented, enabling the robot to perceive and pick the fruits using robotic grippers. Participating in this project will provide you with hands-on experience in robot programming, perception, and motion planning. 
+
+
 ---
 
 ## <u>Master's Projects</u>
