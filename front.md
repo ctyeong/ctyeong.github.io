@@ -4,9 +4,15 @@ title: News
 permalink: /
 ---
 
-* May-23: Excited to start a new position as a **Tenure-Track Assistant Professor** in the Department of Information Technology at Kennesaw State University from August 2023! 
+* Dec-23: New paper accepted to [EAAI-24](https://aaai.org/aaai-conference/eaai-24-call-for-participation/){:target="_blank"} within [AAAI-24](https://aaai.org/aaai-conference/){:target="_blank"}! &mdash; 
+  *Improving Visual Accessibility with a Deep Encoder-Decoder Image Corrector For Color Vision Deficient Individuals.*
 
-* Dec-22: A workshop proposal accepted to [ICRA2023](https://www.icra2023.org/){:target="_blank"}! &mdash; 
+* Sep-23: New short paper accepted to the [WARS](https://sites.google.com/illinois.edu/iros2023-agrobotics/){:target="_blank"} workshop at [IROS2023](https://ieee-iros.org/){:target="_blank"}! &mdash; 
+  *DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*
+
+* Aug-23: Dr. Taeyeong Choi starts the LaSER lab as a new **Tenure-Track Assistant Professor** of [Information Technology](https://www.kennesaw.edu/ccse/academics/information-technology/){:target="_blank"} at [Kennesaw State University](https://www.kennesaw.edu/){:target="_blank"}! 
+
+<!-- * Dec-22: A workshop proposal accepted to [ICRA2023](https://www.icra2023.org/){:target="_blank"}! &mdash; 
 [*TIG-IV: From Farm to Fork*](https://sites.google.com/view/icra23tig4ws/){:target='_blank'}. 
  
 * Dec-22: Two papers accepted to the [AIAFS](https://aiafs-aaai2022.github.io/){:target="_blank"}
@@ -70,4 +76,4 @@ permalink: /
 
 * Jan-20: New paper accepted to [ICRA2020](https://www.icra2020.org/){:target="_blank"}! &mdash;
   *Learning Local Behavioral Sequences to Better Infer Non-local Properties in Real Multi-robot Systems.*
- 
+  -->

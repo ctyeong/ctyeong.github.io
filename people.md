@@ -10,4 +10,7 @@ permalink: /people/
 <br/>
 
 ## Students
-Sahith Vardhan Reddy Vancha (MS student in IT)
+Mushruf Shaik, MS student in CS
+
+## Alumni
+Sahith Vardhan Reddy Vancha, MS in IT

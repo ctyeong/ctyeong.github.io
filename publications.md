@@ -6,6 +6,10 @@ permalink: /publications/
 
 ### (Workshop): 
 
+***Choi, T.***, D. Guevara, G. Bandodkar, Z. Cheng, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
+In: IROS 2023 Workshop on Workshop on Agricultural Robotics for a Sustainable Future ([WARS 2023](https://sites.google.com/illinois.edu/iros2023-agrobotics/home){:target="_blank"}).
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
+
 ***Choi, T.*** and X. Liu (2023): [*Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft 
 Fruits.*](https://openreview.net/forum?id=WGBHIs3ugm){:target="_blank"}
 In: AAAI-2023 Workshop on AI for Agriculture and Food Systems (AIAFS 2023).
@@ -18,7 +22,7 @@ Representation Learning of Visual Anomalies in Strawberries.*](https://openrevie
 In: AAAI-2022 Workshop on AI for Agriculture and Food Systems (AIAFS 2022).
 
 
-### (Submitted): 
+<!-- ### (Submitted): 
 
 ***Choi, T.***, D. Guevara, G. Bandodkar, Z. Cheng, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
 To: 2023 IEEE International Conference on
@@ -26,10 +30,21 @@ Intelligent Robots and Systems (IROS 2023). Detroit, USA.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
 
 ***Choi, T.***, Y. Liu, and X. Liu (2023): *Towards Fully Automated Decision-Making Systems for Smart Farming: Challenges, Opportunities, and  a Case Study.*
-To: 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023). Macao, China.
+To: 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023). Macao, China. -->
 
 
 ### (Published):
+
+<!-- (To appear) ***Choi, T.***, B. Pyenson, J. Liebig, and T. P. Pavlic (2022): 
+[*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
+Swarms.*](https://link.springer.com/article/10.1007/s10015-022-00753-y){:target="_blank"} 
+Journal of Artificial Life and Robotics (AROB)
+&mdash;
+Extension of the <span style="color:red">[Best Paper Award]</span> winner 
+at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
+Kyoto, Japan (Virtual). 
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
+[arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}. -->
 
 ***Choi, T.***, B. Pyenson, J. Liebig, and T. P. Pavlic (2022): 
 [*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
