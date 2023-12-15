@@ -7,7 +7,7 @@ permalink: /publications/
 ### (Workshop): 
 
 ***Choi, T.***, D. Guevara, G. Bandodkar, Z. Cheng, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
-In: IROS 2023 Workshop on Workshop on Agricultural Robotics for a Sustainable Future ([WARS 2023](https://sites.google.com/illinois.edu/iros2023-agrobotics/home){:target="_blank"}).
+In: IROS 2023 Workshop on Agricultural Robotics for a Sustainable Future ([WARS 2023](https://sites.google.com/illinois.edu/iros2023-agrobotics/home){:target="_blank"}).
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
 
 ***Choi, T.*** and X. Liu (2023): [*Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft 
