@@ -4,47 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-### (Workshop): 
+### Conference/Journal:
 
-***Choi, T.***, D. Guevara, G. Bandodkar, Z. Cheng, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
-In: IROS 2023 Workshop on Agricultural Robotics for a Sustainable Future ([WARS 2023](https://sites.google.com/illinois.edu/iros2023-agrobotics/home){:target="_blank"}).
-\[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
+(To appear) Goyal S., K. Sasikumar, R. Sheth, A. Seelam, ***T. Choi***, and X. Liu (2024): 
+*EnColor: Improving Visual Accessibility with a Deep Encoder-Decoder Image Corrector for Color Vision Deficient Individuals.* 
+In: Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24). Vancouver, Canada.
+\[[<span style="color:red">Code</span>](https://github.com/Satgoy152/EnColorExperiments){:target="_blank"}\]
 
-***Choi, T.*** and X. Liu (2023): [*Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft 
-Fruits.*](https://openreview.net/forum?id=WGBHIs3ugm){:target="_blank"}
-In: AAAI-2023 Workshop on AI for Agriculture and Food Systems (AIAFS 2023).
-
-Liu, Y., ***T. Choi.***, and X. Liu (2023): [*Constrained Reinforcement Learning for Autonomous Farming: Challenges and Opportunities.*](https://openreview.net/forum?id=BVkzFyB-dv){:target="_blank"}
-In: AAAI-2023 Workshop on AI for Agriculture and Food Systems (AIAFS 2023).
-
-***Choi, T.*** and G. Cielniak (2022): [*Channel Randomisation with Domain Control for Effective
-Representation Learning of Visual Anomalies in Strawberries.*](https://openreview.net/forum?id=BcQqzWwzoaw){:target="_blank"}
-In: AAAI-2022 Workshop on AI for Agriculture and Food Systems (AIAFS 2022).
-
-
-<!-- ### (Submitted): 
-
-***Choi, T.***, D. Guevara, G. Bandodkar, Z. Cheng, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
-To: 2023 IEEE International Conference on
-Intelligent Robots and Systems (IROS 2023). Detroit, USA.
-\[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
-
-***Choi, T.***, Y. Liu, and X. Liu (2023): *Towards Fully Automated Decision-Making Systems for Smart Farming: Challenges, Opportunities, and  a Case Study.*
-To: 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023). Macao, China. -->
-
-
-### (Published):
-
-<!-- (To appear) ***Choi, T.***, B. Pyenson, J. Liebig, and T. P. Pavlic (2022): 
-[*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
-Swarms.*](https://link.springer.com/article/10.1007/s10015-022-00753-y){:target="_blank"} 
-Journal of Artificial Life and Robotics (AROB)
-&mdash;
-Extension of the <span style="color:red">[Best Paper Award]</span> winner 
-at the 4th International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM 2021). 
-Kyoto, Japan (Virtual). 
-\[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
-[arXiv:2108.09394](https://arxiv.org/abs/2108.09394){:target="_blank"}. -->
+(To appear) Bandodkar G., S. Agarwal, A. K. Sughosh, S. Singh, and ***T. Choi*** (2024): 
+*“Allot?” is “A Lot!” Towards Developing More Generalized Speech Recognition System for Accessible Communication.* 
+In: Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24). Vancouver, Canada.
 
 ***Choi, T.***, B. Pyenson, J. Liebig, and T. P. Pavlic (2022): 
 [*Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological 
@@ -63,7 +32,6 @@ Reliable Robotic Monitoring of Fruit Anomalies.*](https://arxiv.org/abs/2109.101
 In: Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA 2022). Philadelphia, USA.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\] 
-&mdash; To appear.
 
 ***Choi, T.*** and G. Cielniak (2021): 
 [*Adaptive Selection of Informative Path Planning Strategies via
@@ -72,7 +40,7 @@ In: Proceedings of the 10th European Conference on Mobile Robots (ECMR 2021). Bo
 
 ***Choi, T.***, B. Pyenson, J. Liebig, and T. P. Pavlic (2021): 
 [*Identification of Abnormal States in Videos of Ants Undergoing Social Phase Change.*](https://ojs.aaai.org/index.php/AAAI/article/view/17794){:target="_blank"}
-In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Virtual conference.
+In: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI-21). Virtual conference.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/OpticalFlows_HsAnts){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/IO-GEN){:target="_blank"}\]
 
@@ -115,4 +83,21 @@ Journal of Korea Game Society (JKGS), 15(5):89–98.
 In: Proceedings of the 2015 IEEE International Conference on Machine Learning
 and Cybernetics (ICMLC 2015). Guangzhou, China.
 
+<br />
 
+### Preprints: 
+
+***Choi, T.***, D. Guevara, G. Bandodkar, Z. Cheng, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2023): [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
+In: IROS 2023 Workshop on Agricultural Robotics for a Sustainable Future ([WARS 2023](https://sites.google.com/illinois.edu/iros2023-agrobotics/home){:target="_blank"}).
+\[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
+
+***Choi, T.*** and X. Liu (2023): [*Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft 
+Fruits.*](https://openreview.net/forum?id=WGBHIs3ugm){:target="_blank"}
+In: AAAI-2023 Workshop on AI for Agriculture and Food Systems (AIAFS 2023).
+
+Liu, Y., ***T. Choi.***, and X. Liu (2023): [*Constrained Reinforcement Learning for Autonomous Farming: Challenges and Opportunities.*](https://openreview.net/forum?id=BVkzFyB-dv){:target="_blank"}
+In: AAAI-2023 Workshop on AI for Agriculture and Food Systems (AIAFS 2023).
+
+***Choi, T.*** and G. Cielniak (2022): [*Channel Randomisation with Domain Control for Effective
+Representation Learning of Visual Anomalies in Strawberries.*](https://openreview.net/forum?id=BcQqzWwzoaw){:target="_blank"}
+In: AAAI-2022 Workshop on AI for Agriculture and Food Systems (AIAFS 2022).
