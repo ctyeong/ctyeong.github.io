@@ -4,8 +4,10 @@ title: News
 permalink: /
 ---
 
-* Dec-23: New paper accepted to [EAAI-24](https://aaai.org/aaai-conference/eaai-24-call-for-participation/){:target="_blank"} within [AAAI-24](https://aaai.org/aaai-conference/){:target="_blank"}! &mdash; 
-  *Improving Visual Accessibility with a Deep Encoder-Decoder Image Corrector For Color Vision Deficient Individuals.*
+* Dec-23: Two papers accepted to [EAAI-24](https://aaai.org/aaai-conference/eaai-24-call-for-participation/){:target="_blank"} within [AAAI-24](https://aaai.org/aaai-conference/){:target="_blank"}! &mdash; 
+  *(1) Improving Visual Accessibility with a Deep Encoder-Decoder Image Corrector For Color Vision Deficient Individuals*
+  and
+  *(2) “Allot?” is “A Lot!” Towards Developing More Generalized Speech Recognition System for Accessible Communication.*
 
 * Sep-23: New short paper accepted to the [WARS](https://sites.google.com/illinois.edu/iros2023-agrobotics/){:target="_blank"} workshop at [IROS2023](https://ieee-iros.org/){:target="_blank"}! &mdash; 
   *DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*
