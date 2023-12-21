@@ -6,12 +6,12 @@ permalink: /publications/
 
 ### Conference/Journal:
 
-(To appear) Goyal S., K. Sasikumar, R. Sheth, A. Seelam, ***T. Choi***, and X. Liu (2024): 
+(To appear) Goyal, S., K. Sasikumar, R. Sheth, A. Seelam, ***T. Choi***, and X. Liu (2024): 
 *EnColor: Improving Visual Accessibility with a Deep Encoder-Decoder Image Corrector for Color Vision Deficient Individuals.* 
 In: Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24). Vancouver, Canada.
 \[[<span style="color:red">Code</span>](https://github.com/Satgoy152/EnColorExperiments){:target="_blank"}\]
 
-(To appear) Bandodkar G., S. Agarwal, A. K. Sughosh, S. Singh, and ***T. Choi*** (2024): 
+(To appear) Bandodkar, G., S. Agarwal, A. K. Sughosh, S. Singh, and ***T. Choi*** (2024): 
 *“Allot?” is “A Lot!” Towards Developing More Generalized Speech Recognition System for Accessible Communication.* 
 In: Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24). Vancouver, Canada.
 
