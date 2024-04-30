@@ -40,6 +40,9 @@ BSE in Computer Science and Engineering, 2015
 
 ## <u>Teaching</u>
 
+Spring 2024
+- IT7143: Cloud Analytics
+
 Fall 2023
 - IT7103: Practical Data Analytics 
 - IT4773: Machine Learning for Enterprise Applications
