@@ -53,8 +53,8 @@ In addition, I have created a publicly available agricultural dataset specifical
 
 **References:**
 
-- [*DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
- arXiv, 2023.
+- [*DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
+In: Proceedings of the 2024 IEEE International Conference on Automation Science and Engineering (CASE 2024).
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\]
 
 - [*Adaptive Selection of Informative Path Planning Strategies via

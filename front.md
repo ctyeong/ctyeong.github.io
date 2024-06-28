@@ -4,13 +4,16 @@ title: News
 permalink: /
 ---
 
+* May-24: New paper accepted to [CASE2024](https://2024.ieeecase.org/){:target="_blank"} &mdash; 
+  *DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots.*
+
 * Dec-23: Two papers accepted to [EAAI-24](https://aaai.org/aaai-conference/eaai-24-call-for-participation/){:target="_blank"} within [AAAI-24](https://aaai.org/aaai-conference/){:target="_blank"}! &mdash; 
   *(1) Improving Visual Accessibility with a Deep Encoder-Decoder Image Corrector For Color Vision Deficient Individuals*
   and
   *(2) “Allot?” is “A Lot!” Towards Developing More Generalized Speech Recognition System for Accessible Communication.*
 
 * Sep-23: New short paper accepted to the [WARS](https://sites.google.com/illinois.edu/iros2023-agrobotics/){:target="_blank"} workshop at [IROS2023](https://ieee-iros.org/){:target="_blank"}! &mdash; 
-  *DAVIS-Ag: A Synthetic Plant Dataset for Developing Domain-Inspired Active Vision in Agricultural Robots.*
+  *DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots.*
 
 * Aug-23: Dr. Taeyeong Choi starts as a new **Tenure-Track Assistant Professor** of [Information Technology](https://www.kennesaw.edu/ccse/academics/information-technology/){:target="_blank"}, leading the LaSER laboratory at [Kennesaw State University](https://www.kennesaw.edu/){:target="_blank"}! 
 
