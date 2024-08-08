@@ -4,6 +4,9 @@ title: News
 permalink: /
 ---
 
+* Aug-24: Two-year project funded by SSARE &mdash; 
+  [*MoCoBot: Developing a Low-Cost Night-time Mollusk Control Robot for Strawberry Growers.*](https://projects.sare.org/sare_project/gs24-301/){:target="_blank"} 
+
 * May-24: New paper accepted to [CASE2024](https://2024.ieeecase.org/){:target="_blank"} &mdash; 
   *DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots.*
 
