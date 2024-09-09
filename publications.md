@@ -6,6 +6,11 @@ permalink: /publications/
 
 ### Conference/Journal:
 
+***Choi, T.***, O. Would, A. Salazar-Gomez, X. Liu, and  G. Cielniak (2024): *Channel Randomisation: Self-Supervised Representation Learning for Reliable Visual Anomaly Detection in Specialty Crops.*
+In: Journal of Computers and Electronics in Agriculture.
+&mdash;
+To appear
+
 ***Choi, T.***, D. Guevara, Z. Cheng, G. Bandodkar, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2024): [*DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
 <!-- In: IROS 2023 Workshop on Agricultural Robotics for a Sustainable Future ([WARS 2023](https://sites.google.com/illinois.edu/iros2023-agrobotics/home){:target="_blank"}). -->
 In: Proceedings of the 2024 IEEE International Conference on Automation Science and Engineering (CASE 2024). Bari, Italy.

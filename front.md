@@ -4,6 +4,9 @@ title: News
 permalink: /
 ---
 
+* Aug-24: New paper accepted to [Journal of Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture){:target="_blank"} &mdash; 
+  *Channel Randomisation: Self-Supervised Representation Learning for Reliable Visual Anomaly Detection in Specialty Crops.*
+  
 * Aug-24: Two-year project funded by SSARE &mdash; 
   [*MoCoBot: Developing a Low-Cost Night-time Mollusk Control Robot for Strawberry Growers.*](https://projects.sare.org/sare_project/gs24-301/){:target="_blank"} 
 
