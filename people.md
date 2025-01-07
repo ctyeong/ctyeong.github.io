@@ -12,4 +12,4 @@ Cameron Redovian, Phd Stduent (CS), Fall 2024~
 
 Robel Mamo, MS Student (CS), Fall 2024~
 
-Vineetha Madasu, MS Student (IT), Fall 2024~
+Silvia Sanjana, MS Student (CS), Spring 2025~
