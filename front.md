@@ -4,6 +4,9 @@ title: News
 permalink: /
 ---
 
+* Apr-25: One-year project funded by Georgia Peanut Commission &mdash; 
+  [*Night Owl: A Low-Cost Smart Drone System for Defending Peanut Farms from Nighttime Wildlife Intrusion.*](https://gapeanuts.com/032725_gpcapprovesresearch/){:target="_blank"} 
+
 * Aug-24: New paper accepted to [Journal of Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture){:target="_blank"} &mdash; 
   *Channel Randomisation: Self-Supervised Representation Learning for Reliable Visual Anomaly Detection in Specialty Crops.*
   
