@@ -4,6 +4,8 @@ title: News
 permalink: /
 ---
 
+* May-25: Our [MoCoBot](https://projects.sare.org/sare_project/gs24-301/){:target="_blank"} project has been covered by [*KSU News*](https://www.kennesaw.edu/news/stories/2025/researcher-develops-ai-robot-aid-farmers-against-pests.php), [*WSB Radio*](https://www.wsbradio.com/news/local/kennesaw-state-university-researchers-develop-ai-robot-pest-control/PQHX7ERKSVAVZKRTYEMAL4INCE/), and [*중앙일보 The Korea Daily*](https://www.koreadaily.com/article/20250527211113611). 
+
 * Apr-25: One-year project funded by Georgia Peanut Commission &mdash; 
   [*Night Owl: A Low-Cost Smart Drone System for Defending Peanut Farms from Nighttime Wildlife Intrusion.*](https://gapeanuts.com/032725_gpcapprovesresearch/){:target="_blank"} 
 
