@@ -11,12 +11,10 @@ In: Journal of Computers and Electronics in Agriculture.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\] 
 
-***Choi, T.***, D. Guevara, Z. Cheng, G. Bandodkar, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2024): [*DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots.*](https://arxiv.org/abs/2303.05764){:target="_blank"} 
+***Choi, T.***, D. Guevara, Z. Cheng, G. Bandodkar, C. Wang, B. N. Bailey, M. Earles, and X. Liu (2024): [*DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots.*](https://ieeexplore.ieee.org/document/10711368){:target="_blank"} 
 <!-- In: IROS 2023 Workshop on Agricultural Robotics for a Sustainable Future ([WARS 2023](https://sites.google.com/illinois.edu/iros2023-agrobotics/home){:target="_blank"}). -->
 In: Proceedings of the 2024 IEEE International Conference on Automation Science and Engineering (CASE 2024). Bari, Italy.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/DAVIS-Ag){:target="_blank"}\] 
-&mdash;
-To appear
 
 Goyal, S., K. Sasikumar, R. Sheth, A. Seelam, ***T. Choi***, and X. Liu (2024): 
 [*EnColor: Improving Visual Accessibility with a Deep Encoder-Decoder Image Corrector for Color Vision Deficient Individuals.*](https://ojs.aaai.org/index.php/AAAI/article/view/30382){:target="_blank"} 
