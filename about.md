@@ -40,6 +40,9 @@ BSE in Computer Science and Engineering, 2015
 
 ## <u>Teaching</u>
 
+Summer 2025
+- IT7133: Enterprise AI Applications
+
 Spring 2025
 - IT7143: Cloud Analytics
 
