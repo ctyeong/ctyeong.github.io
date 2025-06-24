@@ -6,6 +6,11 @@ permalink: /publications/
 
 ### Conference/Journal:
 
+Mamo, R. and ***T. Choi*** (2025): 
+*CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation.* 
+In: Proceedings of the 14th European Conference on Mobile Robots (ECMR 2025). Padua, Italy. 
+&mdash; To Appear
+
 ***Choi, T.***, O. Would, A. Salazar-Gomez, X. Liu, and  G. Cielniak (2024): [*Channel Randomisation: Self-Supervised Representation Learning for Reliable Visual Anomaly Detection in Specialty Crops.*](https://doi.org/10.1016/j.compag.2024.109416)
 In: Journal of Computers and Electronics in Agriculture.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]

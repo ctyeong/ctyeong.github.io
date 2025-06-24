@@ -7,6 +7,9 @@ permalink: /
 * Jun-25: Two-year NSF ERI grant awarded &mdash; 
   [*ERI: Odor Representation Learning for Robust Detection of Co-present Foods and Pathogen Contamination Using an Electronic Nose.*](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2502025){:target="_blank"} 
 
+* Jun-25: New paper accepted to [ECMR2025](https://ecmr2025.dei.unipd.it/){:target="_blank"} &mdash; 
+  *CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation.*
+
 * May-25: Our [MoCoBot](https://projects.sare.org/sare_project/gs24-301/){:target="_blank"} project has been covered by [*KSU News*](https://www.kennesaw.edu/news/stories/2025/researcher-develops-ai-robot-aid-farmers-against-pests.php){:target="_blank"}, [*WSB Radio*](https://www.wsbradio.com/news/local/kennesaw-state-university-researchers-develop-ai-robot-pest-control/PQHX7ERKSVAVZKRTYEMAL4INCE/){:target="_blank"}, and [*중앙일보 The Korea Daily*](https://www.koreadaily.com/article/20250527211113611){:target="_blank"}. 
 
 * Apr-25: One-year project funded by Georgia Peanut Commission &mdash; 
