@@ -12,7 +12,7 @@ permalink: /
 
 * Jun-25: Our [NightOwl](https://gapeanuts.com/032725_gpcapprovesresearch/){:target="_blank"} project has been covered by [*KSU News*](https://www.kennesaw.edu/news/stories/2025/researchers-developing-ai-powered-drones-protect-peanut-farms.php){:target="_blank"}.
 
-* May-25: Our [MoCoBot](https://projects.sare.org/sare_project/gs24-301/){:target="_blank"} project has been covered by [*KSU News*](https://www.kennesaw.edu/news/stories/2025/researcher-develops-ai-robot-aid-farmers-against-pests.php){:target="_blank"}, [*WSB Radio*](https://www.wsbradio.com/news/local/kennesaw-state-university-researchers-develop-ai-robot-pest-control/PQHX7ERKSVAVZKRTYEMAL4INCE/){:target="_blank"}, and [*중앙일보 The Korea Daily*](https://www.koreadaily.com/article/20250527211113611){:target="_blank"}. 
+* May-25: Our [MoCoBot](https://projects.sare.org/sare_project/gs24-301/){:target="_blank"} project has been covered by [*KSU News*](https://www.kennesaw.edu/news/stories/2025/researcher-develops-ai-robot-aid-farmers-against-pests.php){:target="_blank"}, [*WSB Radio*](https://www.wsbradio.com/news/local/kennesaw-state-university-researchers-develop-ai-robot-pest-control/PQHX7ERKSVAVZKRTYEMAL4INCE/){:target="_blank"}, [*Wisconsin Ag Connection*](https://wisconsinagconnection.com/news/night-vision-robot-protects-strawberry-crops){:target="_blank"}, and [*중앙일보 The Korea Daily*](https://www.koreadaily.com/article/20250527211113611){:target="_blank"}. 
 
 * Apr-25: One-year project funded by Georgia Peanut Commission &mdash; 
   [*Night Owl: A Low-Cost Smart Drone System for Defending Peanut Farms from Nighttime Wildlife Intrusion.*](https://gapeanuts.com/032725_gpcapprovesresearch/){:target="_blank"} 
