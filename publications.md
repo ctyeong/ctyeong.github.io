@@ -7,11 +7,14 @@ permalink: /publications/
 ### Conference/Journal:
 
 Mamo, R. and ***T. Choi*** (2025): 
-*CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation.* 
+[*CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation.*](https://ieeexplore.ieee.org/abstract/document/11163018/){:target="_blank"} 
 In: Proceedings of the 14th European Conference on Mobile Robots (ECMR 2025). Padua, Italy. 
-&mdash; To Appear
+\[[<span style="color:red">Code</span>](https://github.com/mamorobel/CA-Cut){:target="_blank"}\] 
 
-***Choi, T.***, O. Would, A. Salazar-Gomez, X. Liu, and  G. Cielniak (2024): [*Channel Randomisation: Self-Supervised Representation Learning for Reliable Visual Anomaly Detection in Specialty Crops.*](https://doi.org/10.1016/j.compag.2024.109416)
+Ahmed, N., ***T. Choi***, Xinyue Zhang, Sahidul Islam, and Rifatul Islam (2025): [*Towards Safer Mixed Reality with Auditory Warnings for Uncontrolled Indoor Settings*](https://ieeexplore.ieee.org/abstract/document/10973018/){:target="_blank"} 
+In: Proceedings of the 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW 2025). Saint Malo, France.
+
+***Choi, T.***, O. Would, A. Salazar-Gomez, X. Liu, and  G. Cielniak (2024): [*Channel Randomisation: Self-Supervised Representation Learning for Reliable Visual Anomaly Detection in Specialty Crops.*](https://doi.org/10.1016/j.compag.2024.109416){:target="_blank"} 
 In: Journal of Computers and Electronics in Agriculture.
 \[[<span style="color:red">Data</span>](https://github.com/ctyeong/Riseholme-2021){:target="_blank"}\]
 \[[<span style="color:red">Code</span>](https://github.com/ctyeong/CH-Rand){:target="_blank"}\] 

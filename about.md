@@ -40,6 +40,9 @@ BSE in Computer Science and Engineering, 2015
 
 ## <u>Teaching</u>
 
+Fall 2025
+- IT7103: Practical Data Analytics
+
 Summer 2025
 - IT7133: Enterprise AI Applications
 
