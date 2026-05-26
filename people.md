@@ -5,9 +5,6 @@ permalink: /people/
 ---
 
 
-# Current Members 
-
-
 [Dr. Taeyeong Choi, PhD (Group Lead)](/about) 
 
 Cameron Redovian, Phd Stduent (CS), Fall 2024~
