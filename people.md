@@ -1,10 +1,12 @@
 ---
 layout: page
-title: 
+title: Current Members
 permalink: /people/
 ---
 
-<!-- # Current Members  -->
+
+# Current Members 
+
 
 [Dr. Taeyeong Choi, PhD (Group Lead)](/about) 
 
