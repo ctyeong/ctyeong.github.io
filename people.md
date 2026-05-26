@@ -4,7 +4,7 @@ title:
 permalink: /people/
 ---
 
-# Current Members 
+<!-- # Current Members  -->
 
 [Dr. Taeyeong Choi, PhD (Group Lead)](/about) 
 
