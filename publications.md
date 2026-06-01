@@ -6,6 +6,11 @@ permalink: /publications/
 
 ### Conference/Journal:
 
+(To appear) Supannopaj, T., N. Voore, A. Taggart, ***T. Choi***, and C. Huang (2026): 
+*Tackling Catastrophic Forgetting in Split Learning via Orthogonal Projection
+.*
+In: Proceedings of the 35th International Conference on Artificial Neural Networks (ICANN 2026), Padua, Italy. 
+
 Mamo, R. and ***T. Choi*** (2025): 
 [*CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation.*](https://ieeexplore.ieee.org/abstract/document/11163018/){:target="_blank"} 
 In: Proceedings of the 14th European Conference on Mobile Robots (ECMR 2025). Padua, Italy. 
