@@ -8,11 +8,11 @@ permalink: /publications/
 
 (To appear) ***Mamo, R.***, R. D. Silva, G. Cielniak, and ***T. Choi*** (2026): 
 *Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation.*
-In: Proceedings of the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026), Pittsburgh, PA, USA. 
+In: Proceedings of the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026). Pittsburgh, PA, USA. 
 
 (To appear) Supannopaj, T., N. Voore, A. Taggart, ***T. Choi***, and C. Huang (2026): 
 *Tackling Catastrophic Forgetting in Split Learning via Orthogonal Projection.*
-In: Proceedings of the 35th International Conference on Artificial Neural Networks (ICANN 2026), Padua, Italy. 
+In: Proceedings of the 35th International Conference on Artificial Neural Networks (ICANN 2026). Padua, Italy. 
 
 ***Mamo, R.*** and ***T. Choi*** (2025): 
 [*CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation.*](https://ieeexplore.ieee.org/abstract/document/11163018/){:target="_blank"} 
