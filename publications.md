@@ -6,12 +6,15 @@ permalink: /publications/
 
 ### Conference/Journal:
 
+(To appear) ***Mamo, R.***, R. D. Silva, G. Cielniak, and ***T. Choi*** (2026): 
+*Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation.*
+In: Proceedings of the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026), Pittsburgh, PA, USA. 
+
 (To appear) Supannopaj, T., N. Voore, A. Taggart, ***T. Choi***, and C. Huang (2026): 
-*Tackling Catastrophic Forgetting in Split Learning via Orthogonal Projection
-.*
+*Tackling Catastrophic Forgetting in Split Learning via Orthogonal Projection.*
 In: Proceedings of the 35th International Conference on Artificial Neural Networks (ICANN 2026), Padua, Italy. 
 
-Mamo, R. and ***T. Choi*** (2025): 
+***Mamo, R.*** and ***T. Choi*** (2025): 
 [*CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation.*](https://ieeexplore.ieee.org/abstract/document/11163018/){:target="_blank"} 
 In: Proceedings of the 14th European Conference on Mobile Robots (ECMR 2025). Padua, Italy. 
 \[[<span style="color:red">Code</span>](https://github.com/mamorobel/CA-Cut){:target="_blank"}\] 
@@ -109,6 +112,9 @@ and Cybernetics (ICMLC 2015). Guangzhou, China.
 <br />
 
 ### Preprints: 
+
+***Choi, T.*** and M. Kamruzzaman (2026): [*Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings.*](https://arxiv.org/abs/2606.27672){:target="_blank"}
+In: arXiv:2606.27672.
 
 ***Choi, T.*** and X. Liu (2023): [*Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft 
 Fruits.*](https://openreview.net/forum?id=WGBHIs3ugm){:target="_blank"}
