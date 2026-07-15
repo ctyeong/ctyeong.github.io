@@ -7,7 +7,7 @@ permalink: /publications/
 ### Conference/Journal:
 
 (To appear) ***Mamo, R.***, R. D. Silva, G. Cielniak, and ***T. Choi*** (2026): 
-*Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation.*
+{*Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation.*(https://arxiv.org/abs/2607.12065){:target="_blank"}
 In: Proceedings of the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026). Pittsburgh, PA, USA. 
 
 (To appear) Supannopaj, T., N. Voore, A. Taggart, ***T. Choi***, and C. Huang (2026): 
