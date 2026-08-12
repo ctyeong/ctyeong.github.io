@@ -7,7 +7,13 @@ permalink: /people/
 
 [Dr. Taeyeong Choi, PhD (Group Lead)](/about) 
 
-Cameron Redovian, Phd Stduent (CS), Fall 2024~
+Cameron Redovian, PhD Stduent (CS), Fall 2024~
+
+Zularbine Kamal, PhD Student (CS), Fall 2026~
+
+Carter Corbin, MS Student (IRS), Summer 2026~
+
+Shema Nkindi Giscard, MS Student (CS), Fall 2026~
 
 Subeen Choi, Undergraduate (ISE), Spring 2026~
 
