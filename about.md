@@ -40,6 +40,12 @@ BSE in Computer Science and Engineering, 2015
 
 ## <u>Teaching</u>
 
+Summer 2026
+- IT7103: Practical Data Analytics
+
+Spring 2026
+- IT7143: Cloud Analytics
+
 Fall 2025
 - IT7103: Practical Data Analytics
 
