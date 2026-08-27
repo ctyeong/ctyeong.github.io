@@ -6,6 +6,9 @@ permalink: /publications/
 
 ### Conference/Journal:
 
+(To appear) ***Choi, T.*** and M. Kamruzzaman (2026): [*Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings.*](https://arxiv.org/abs/2606.27672){:target="_blank"}
+In: Proceedings of the 2026 IEEE SENSORS (SENSORS 2026). Rotterdam, The Netherlands.
+
 (To appear) ***Mamo, R.***, R. D. Silva, G. Cielniak, and ***T. Choi*** (2026): 
 [*Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation.*](https://arxiv.org/abs/2607.12065){:target="_blank"}
 In: Proceedings of the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026). Pittsburgh, PA, US
@@ -115,8 +118,6 @@ and Cybernetics (ICMLC 2015). Guangzhou, China.
 
 ### Preprints: 
 
-***Choi, T.*** and M. Kamruzzaman (2026): [*Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings.*](https://arxiv.org/abs/2606.27672){:target="_blank"}
-In: arXiv:2606.27672.
 
 ***Choi, T.*** and X. Liu (2023): [*Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft 
 Fruits.*](https://openreview.net/forum?id=WGBHIs3ugm){:target="_blank"}
