@@ -3,12 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Learning & SEnsing Research (LaSER) Laboratory
-# Taeyeong Choi (최태영)
+name: Taeyeong Choi (최태영)
+# Learning & SEnsing Research (LaSER) Laboratory
 
 # Short bio or description (displayed in the header)
-description: Kennesaw State University, Marietta, GA, USA
-# Assistant Professor at Kennesaw State University, Marietta, GA, USA
+description: Assistant Professor at Kennesaw State University
+# Kennesaw State University, Marietta, GA, USA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/753731985839751168/aT_XgK_J_400x400.jpg
@@ -25,7 +25,7 @@ footer-links:
   flickr:
   github: 'ctyeong'
   instagram:
-  linkedin: '/tchoi4'
+  linkedin: 'tchoi4'
   pinterest:
   rss: m # just type anything here for a working RSS icon
   twitter: 'ssuty'

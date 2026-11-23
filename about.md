@@ -4,28 +4,40 @@ title:
 permalink: /about/
 ---
 
-<img style="margin: 0 20px 0 0; float: left;" width="220" src="../images/profile_ksu.jpg">
+<img style="margin: 0 20px 0 0; float: left;" width="180" src="../images/profile_ksu2.jpg">
 
-Dr. Taeyeong Choi is an Assistant Professor of [Information Technology](https://ccse.kennesaw.edu/it/index.php) at [Kennesaw State University (KSU)](https://www.kennesaw.edu/), GA, USA. 
-Leading the *Learning and SEnsing Research (LaSER)* laboratory, his research primarily focuses on designing novel machine learning and robotics methodologies for practical applications domains, such as agriculture. 
+I joined Kenensaw State Univesrity as an Assistant Professor in Fall 2023.
+ 
+Prior to joining KSU, 
+
+- I was a postdoc at the UC Davis (2022-2023), supervised by [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu).
+- I was a postdoc at the University of Lincoln, UK (2020-2022), supervised by [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak).
+- I earned my PhD degree in Computer Science from Arizona State Univesrity (ASU) in 2020, advised by [Dr. Theodore (Ted) Pavlic](https://search.asu.edu/profile/1995237) as a member of the [Pavlic BEET Lab](https://pavliclab.org/).  
+- During my PhD, I spent a summer semester at [Atlassian](https://www.atlassian.com/) as a Data Scientist Intern.
+- Before joining ASU, I earned my BSE degree in Computer Science and Engineering from Soongsil University, South Korea.  
+
+For more details, please see my [CV](/cvs/cv.pdf).
+
+<!-- Dr. Taeyeong Choi is an Assistant Professor of [Information Technology](https://ccse.kennesaw.edu/it/index.php) at [Kennesaw State University (KSU)](https://www.kennesaw.edu/), GA, USA. 
+Leading the *Learning and SEnsing Research (LaSER)* laboratory, his research primarily focuses on designing novel machine learning and robotics methodologies for practical applications domains, such as agriculture.  -->
 <!-- To be specific, he is interested in developing new approaches  -->
-His research involves the development of data-driven approaches to construct precise environmental models, addressing challenges posed by limited available observations. 
+<!-- His research involves the development of data-driven approaches to construct precise environmental models, addressing challenges posed by limited available observations.  -->
 <!-- I design algorithms to synthesize useful data that could complement an available, imperfect dataset so as to better model the world of interest.  -->
 <!-- Additionally, I build embodied agents capable of optimizing their motions and paths to collect the most informative observations.  -->
-Dr. Choi's work is built upon cutting-edge advancements in computer vision, reinforcement learning, and robotics technologies. 
+<!-- Dr. Choi's work is built upon cutting-edge advancements in computer vision, reinforcement learning, and robotics technologies.  -->
 
-Prior to joining KSU, Dr. Choi gained valuable research experience as a postdoctoral scholar at the University of California, Davis, under the guidance of [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu), and at the University of Lincoln, UK, supervised by [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak). 
+<!-- Prior to joining KSU, Dr. Choi gained valuable research experience as a postdoctoral scholar at the University of California, Davis, under the guidance of [Dr. Xin Liu](https://xinliu.engineering.ucdavis.edu), and at the University of Lincoln, UK, supervised by [Dr. Grzegorz Cielniak](https://staff.lincoln.ac.uk/gcielniak). 
 During these positions, he specialized in the development of AI/robotics technologies for agri-food systems, identifying unique domain-specific challenges and creating effective solutions.
 Through active collaboration, he led the organizing team of the [ICRA2023 workshop on Agri-Food Robotics--from Farm to Fork](https://sites.google.com/view/icra23tig4ws/), contributing to the research community. 
 
 He earned his PhD in Computer Science from Arizona State University, working under the supervision of [Dr. Theodore Pavlic](https://search.asu.edu/profile/1995237). 
-His cross-disciplinary doctoral research, which included the design of a deep learning-based abnormal state detector in ant colonies, were recognized with the ASU Completion Fellowship as well as the Best Paper Award in the SWARM2021 conference.
+His cross-disciplinary doctoral research, which included the design of a deep learning-based abnormal state detector in ant colonies, were recognized with the ASU Completion Fellowship as well as the Best Paper Award in the SWARM2021 conference. -->
+<!-- 
+*For more details, please look at his CV available [here](/cvs/cv.pdf)!* -->
 
-*For more details, please look at his CV available [here](/cvs/cv.pdf)!*
+<!-- --- -->
 
----
-
-## <u>Education</u>
+<!-- ## <u>Education</u>
 
 PhD in Computer Science, 2020
 - Arizona State University, USA
@@ -34,10 +46,10 @@ MS in Computer Science, 2019
 - Arizona State University, USA
 
 BSE in Computer Science and Engineering, 2015
-- Soongsil University, South Korea
+- Soongsil University, South Korea -->
 
----
-
+<!-- --- -->
+<!-- 
 ## <u>Teaching</u>
 
 Summer 2026
@@ -64,7 +76,7 @@ Spring 2024
 
 Fall 2023
 - IT7103: Practical Data Analytics 
-- IT4773: Machine Learning for Enterprise Applications
+- IT4773: Machine Learning for Enterprise Applications -->
 
 <!-- we believe that *agri-robotics* will be one of the most important 
 fields in the near future, and so, we are working to identify the unique challenges and limitations in traditional approaches to propose new, better solutions.

@@ -1,8 +1,22 @@
 ---
 layout: page
-title: News
+title: 
 permalink: /
 ---
+
+
+<img style="margin: 0 10px 0 0; float: left;" width="150" src="../images/profile_ksu3.jpg">
+
+
+I'm an Assistant Professor in the Department of Information Technology at Kennesaw State University. 
+I lead the **LaSER Lab**, researching on AI and robotics technologies to enhance *food security* and *safety*.  
+
+For **prospective students**: If you're interested in joining my research group, please explore our research areas first to contact me at [tchoi3@kennesaw.edu](mailto:tchoi3@kennesaw.edu), indicating the *specific* research area you'd like to pursue.
+I can serve as a research advisor for students enrolled in any any prorams at KSU.  
+
+<div style="clear: both;"></div>
+
+# News
 
 * Jun-26: New paper accepted to [IROS2026](https://2026.ieee-iros.org/){:target="_blank"} &mdash; 
   *Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation.*
