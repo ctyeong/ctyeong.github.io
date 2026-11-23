@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Publications
+title: 
 permalink: /publications/
 ---
 
-### Conference/Journal:
+### Peer-Reviewed:
 
 (To appear) ***Choi, T.*** and M. Kamruzzaman (2026): [*Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings.*](https://arxiv.org/abs/2606.27672){:target="_blank"}
 In: Proceedings of the 2026 IEEE SENSORS (SENSORS 2026). Rotterdam, The Netherlands.
