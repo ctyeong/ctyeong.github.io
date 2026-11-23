@@ -18,6 +18,12 @@ I can serve as a research advisor for students enrolled in any any prorams at KS
 
 # News
 
+* Oct-26: Four-year USDA-NIFA grant awarded &mdash; 
+  *Dynamic Time-Series and AI-Powered Spectral-Robotic Intelligence System for High Throughput In-Ovo Chick Sex Differentiation.*
+
+* Aug-26: New paper accepted to [SENSORS2026](https://2026.ieee-sensorsconference.org/){:target="_blank"} &mdash; 
+  *Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings.*
+
 * Jun-26: New paper accepted to [IROS2026](https://2026.ieee-iros.org/){:target="_blank"} &mdash; 
   *Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation.*
 
@@ -25,7 +31,7 @@ I can serve as a research advisor for students enrolled in any any prorams at KS
 
 * Sep-25: Our [E-Nose](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2502025){:target="_blank"} project has been covered by [*KSU News*](https://www.kennesaw.edu/news/stories/2025/researcher-develop-electronic-nose-sniff-out-illness.php){:target="_blank"}, [*The Georgia Sun*](https://thegeorgiasun.com/science/a-ksu-researcher-is-creating-an-electronic-nose-to-sniff-out-foodborne-illness/){:target="_blank"}, [*Fox5Atlanta*](https://www.fox5atlanta.com/news/ksu-researcher-developing-ai-powered-electronic-nose){:target="_blank"}, [*WSB Radio*](https://www.wsbradio.com/news/local/kennesaw-state-researchers-develop-electronic-nose-detect-food-borne-illness/3BJIR2KEX5DSBECDMIA2FGKVOI/){:target="_blank"}, [*Semafor*](https://www.semafor.com/newsletter/09/24/2025/the-case-for-h-1b-visa-reform?utm_source=nowshare&utm_medium=technology&utm_campaign=ArtificialFlavor#i){:target="_blank"}, and [*중앙일보 The Korea Daily*](https://www.koreadaily.com/article/20250923140814830){:target="_blank"}. 
 
-* Jun-25: Two-year NSF ERI grant awarded &mdash; 
+* Jun-25: Two-year NSF-ERI grant awarded &mdash; 
   [*ERI: Odor Representation Learning for Robust Detection of Co-present Foods and Pathogen Contamination Using an Electronic Nose.*](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2502025){:target="_blank"} 
 
 * Jun-25: New paper accepted to [ECMR2025](https://ecmr2025.dei.unipd.it/){:target="_blank"} &mdash; 
