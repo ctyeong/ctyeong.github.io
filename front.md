@@ -12,7 +12,7 @@ I'm an Assistant Professor in the Department of Information Technology at Kennes
 I lead the **LaSER Lab**, researching on AI and robotics technologies to enhance *food security* and *safety*.  
 
 For **prospective students**: If you're interested in joining my research group, please explore our research areas first to contact me at [tchoi3@kennesaw.edu](mailto:tchoi3@kennesaw.edu), indicating the *specific* research area you'd like to pursue.
-I can serve as a research advisor for students enrolled in any any prorams at KSU.  
+I can serve as a research advisor for students enrolled in any any programs at KSU.  
 
 <div style="clear: both;"></div>
 
